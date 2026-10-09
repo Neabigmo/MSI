@@ -1,0 +1,830 @@
+[
+  {
+    "key": "kruhoffer2005_signature",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Gene expression signatures for colorectal cancer microsatellite status and HNPCC",
+    "api_data": {
+      "title": "Gene expression signatures for colorectal cancer microsatellite status and HNPCC",
+      "year": 2005,
+      "authors": [
+        "M Kruhøffer",
+        "J L Jensen",
+        "P Laiho",
+        "L Dyrskjøt",
+        "R Salovaara",
+        "D Arango",
+        "K Birkenkamp-Demtroder",
+        "F B Sørensen",
+        "L L Christensen",
+        "L Buhl",
+        "J-P Mecklin",
+        "H Järvinen",
+        "T Thykjaer",
+        "F P Wikman",
+        "F Bech-Knudsen",
+        "M Juhola",
+        "N N Nupponen",
+        "S Laurberg",
+        "C L Andersen",
+        "L A Aaltonen",
+        "T F Ørntoft"
+      ],
+      "venue": "British Journal of Cancer"
+    }
+  },
+  {
+    "key": "tian2012_robust_signature",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "A robust genomic signature for the detection of colorectal cancer patients with microsatellite instability phenotype and high mutation frequency",
+    "api_data": {
+      "title": "A robust genomic signature for the detection of colorectal cancer patients with microsatellite instability phenotype and high mutation frequency",
+      "year": 2012,
+      "authors": [
+        "Sun Tian",
+        "Paul Roepman",
+        "Vlad Popovici",
+        "Magali Michaut",
+        "Ian Majewski",
+        "Ramon Salazar",
+        "Cristina Santos",
+        "Robert Rosenberg",
+        "Ulrich Nitsche",
+        "Wilma E Mesker",
+        "Sjoerd Bruin",
+        "Sabine Tejpar",
+        "Mauro Delorenzi",
+        "Rene Bernards",
+        "Iris Simon"
+      ],
+      "venue": "The Journal of Pathology"
+    }
+  },
+  {
+    "key": "pacinikova2019_cross_platform",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Cross-platform data analysis reveals a generic gene expression signature for microsatellite instability in colorectal cancer",
+    "api_data": {
+      "title": "Cross-platform Data Analysis Reveals a Generic Gene Expression Signature for Microsatellite Instability in Colorectal Cancer",
+      "year": 2019,
+      "authors": [
+        "Anna Pačínková",
+        "Vlad Popovici"
+      ],
+      "venue": "BioMed Research International"
+    }
+  },
+  {
+    "key": "fu2019_reo_signature",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "A qualitative transcriptional signature for predicting microsatellite instability status of right-sided colon cancer",
+    "api_data": {
+      "title": "A qualitative transcriptional signature for predicting microsatellite instability status of right-sided Colon Cancer",
+      "year": 2019,
+      "authors": [
+        "Yelin Fu",
+        "Lishuang Qi",
+        "Wenbing Guo",
+        "Liangliang Jin",
+        "Kai Song",
+        "Tianyi You",
+        "Shuobo Zhang",
+        "Yunyan Gu",
+        "Wenyuan Zhao",
+        "Zheng Guo"
+      ],
+      "venue": "BMC Genomics"
+    }
+  },
+  {
+    "key": "li2020_premsim",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "PreMSIm: an R package for predicting microsatellite instability from the expression profiling of a gene panel in cancer",
+    "api_data": {
+      "title": "PreMSIm: An R package for predicting microsatellite instability from the expression profiling of a gene panel in cancer",
+      "year": 2020,
+      "authors": [
+        "Lin Li",
+        "Qiushi Feng",
+        "Xiaosheng Wang"
+      ],
+      "venue": "Computational and Structural Biotechnology Journal"
+    }
+  },
+  {
+    "key": "jia2024_msisensor_rna",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "MSIsensor-RNA: microsatellite instability detection for bulk and single-cell gene expression data",
+    "api_data": {
+      "title": "MSIsensor-RNA: Microsatellite Instability Detection for Bulk and Single-cell Gene Expression Data",
+      "year": 2024,
+      "authors": [
+        "Peng Jia",
+        "Xuanhao Yang",
+        "Xiaofei Yang",
+        "Tingjie Wang",
+        "Yu Xu",
+        "Kai Ye"
+      ],
+      "venue": "Genomics, Proteomics &amp; Bioinformatics"
+    }
+  },
+  {
+    "key": "johnson2007_combat",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Adjusting batch effects in microarray expression data using empirical Bayes methods",
+    "api_data": {
+      "title": "Adjusting batch effects in microarray expression data using empirical Bayes methods",
+      "year": 2007,
+      "authors": [
+        "W. Evan Johnson",
+        "Cheng Li",
+        "Ariel Rabinovic"
+      ],
+      "venue": "Biostatistics"
+    }
+  },
+  {
+    "key": "nygaard2016_batch",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Methods that remove batch effects while retaining group differences may lead to exaggerated confidence in downstream analyses",
+    "api_data": {
+      "title": "Methods that remove batch effects while retaining group differences may lead to exaggerated confidence in downstream analyses",
+      "year": 2016,
+      "authors": [
+        "Vegard Nygaard",
+        "Einar Andreas Rødland",
+        "Eivind Hovig"
+      ],
+      "venue": "Biostatistics"
+    }
+  },
+  {
+    "key": "geman2004_pairwise",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Classifying gene expression profiles from pairwise mRNA comparisons",
+    "api_data": {
+      "title": "Classifying Gene Expression Profiles from Pairwise mRNA Comparisons",
+      "year": 2004,
+      "authors": [
+        "Donald Geman",
+        "Christian d'Avignon",
+        "Daniel Q. Naiman",
+        "Raimond L. Winslow"
+      ],
+      "venue": "Statistical Applications in Genetics and Molecular Biology"
+    }
+  },
+  {
+    "key": "collins2024_tripod_ai",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+    "api_data": {
+      "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+      "year": 2024,
+      "authors": [
+        "Gary S Collins",
+        "Karel G M Moons",
+        "Paula Dhiman",
+        "Richard D Riley",
+        "Andrew L Beam",
+        "Ben Van Calster",
+        "Marzyeh Ghassemi",
+        "Xiaoxuan Liu",
+        "Johannes B Reitsma",
+        "Maarten van Smeden",
+        "Anne-Laure Boulesteix",
+        "Jennifer Catherine Camaradou",
+        "Leo Anthony Celi",
+        "Spiros Denaxas",
+        "Alastair K Denniston",
+        "Ben Glocker",
+        "Robert M Golub",
+        "Hugh Harvey",
+        "Georg Heinze",
+        "Michael M Hoffman",
+        "André Pascal Kengne",
+        "Emily Lam",
+        "Naomi Lee",
+        "Elizabeth W Loder",
+        "Lena Maier-Hein",
+        "Bilal A Mateen",
+        "Melissa D McCradden",
+        "Lauren Oakden-Rayner",
+        "Johan Ordish",
+        "Richard Parnell",
+        "Sherri Rose",
+        "Karandeep Singh",
+        "Laure Wynants",
+        "Patricia Logullo"
+      ],
+      "venue": "BMJ"
+    }
+  },
+  {
+    "key": "riley2023_prediction_models_part1",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Evaluation of clinical prediction models (part 1): from development to external validation",
+    "api_data": {
+      "title": "Evaluation of clinical prediction models (part 1): from development to external validation",
+      "year": 2024,
+      "authors": [
+        "Gary S Collins",
+        "Paula Dhiman",
+        "Jie Ma",
+        "Michael M Schlussel",
+        "Lucinda Archer",
+        "Ben Van Calster",
+        "Frank E Harrell",
+        "Glen P Martin",
+        "Karel G M Moons",
+        "Maarten van Smeden",
+        "Matthew Sperrin",
+        "Garrett S Bullock",
+        "Richard D Riley"
+      ],
+      "venue": "BMJ"
+    }
+  },
+  {
+    "key": "riley2024_prediction_models_part2",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Evaluation of clinical prediction models (part 2): how to undertake an external validation study",
+    "api_data": {
+      "title": "Evaluation of clinical prediction models (part 2): how to undertake an external validation study",
+      "year": 2024,
+      "authors": [
+        "Richard D Riley",
+        "Lucinda Archer",
+        "Kym I E Snell",
+        "Joie Ensor",
+        "Paula Dhiman",
+        "Glen P Martin",
+        "Laura J Bonnett",
+        "Gary S Collins"
+      ],
+      "venue": "BMJ"
+    }
+  },
+  {
+    "key": "riley2024_prediction_models_part3",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Evaluation of clinical prediction models (part 3): calculating the sample size required for an external validation study",
+    "api_data": {
+      "title": "Evaluation of clinical prediction models (part 3): calculating the sample size required for an external validation study",
+      "year": 2024,
+      "authors": [
+        "Richard D Riley",
+        "Kym I E Snell",
+        "Lucinda Archer",
+        "Joie Ensor",
+        "Thomas P A Debray",
+        "Ben van Calster",
+        "Maarten van Smeden",
+        "Gary S Collins"
+      ],
+      "venue": "BMJ"
+    }
+  },
+  {
+    "key": "vancalster2019_calibration",
+    "status": "ERROR",
+    "issues": [
+      "第一作者姓氏不匹配: bib='van calster', 实际='' (相似度 0.0%)"
+    ],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Calibration: the Achilles heel of predictive analytics",
+    "api_data": {
+      "title": "Calibration: the Achilles heel of predictive analytics",
+      "year": 2019,
+      "authors": [
+        "",
+        "Ben Van Calster",
+        "David J. McLernon",
+        "Maarten van Smeden",
+        "Laure Wynants",
+        "Ewout W. Steyerberg"
+      ],
+      "venue": "BMC Medicine"
+    }
+  },
+  {
+    "key": "alba2017_discrimination_calibration",
+    "status": "ERROR",
+    "issues": [
+      "标题不匹配 (相似度 75.47169811320755%):\n    bib  : Discrimination and Calibration of Clinical Prediction Models: Users' Guides to the Medical Literature\n    实际 : Discrimination and Calibration of Clinical Prediction Models"
+    ],
+    "source": "crossref",
+    "match_score": 75.47169811320755,
+    "bib_title": "Discrimination and Calibration of Clinical Prediction Models: Users' Guides to the Medical Literature",
+    "api_data": {
+      "title": "Discrimination and Calibration of Clinical Prediction Models",
+      "year": 2017,
+      "authors": [
+        "Ana Carolina Alba",
+        "Thomas Agoritsas",
+        "Michael Walsh",
+        "Steven Hanna",
+        "Alfonso Iorio",
+        "P. J. Devereaux",
+        "Thomas McGinn",
+        "Gordon Guyatt"
+      ],
+      "venue": "JAMA"
+    }
+  },
+  {
+    "key": "mccall2010_frma",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Frozen robust multiarray analysis (fRMA)",
+    "api_data": {
+      "title": "Frozen robust multiarray analysis (fRMA)",
+      "year": 2010,
+      "authors": [
+        "M. N. McCall",
+        "B. M. Bolstad",
+        "R. A. Irizarry"
+      ],
+      "venue": "Biostatistics"
+    }
+  },
+  {
+    "key": "irizarry2003_rma",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Exploration, normalization, and summaries of high density oligonucleotide array probe level data",
+    "api_data": {
+      "title": "Exploration, normalization, and summaries of high density oligonucleotide array probe level data",
+      "year": 2003,
+      "authors": [
+        "R. A. Irizarry"
+      ],
+      "venue": "Biostatistics"
+    }
+  },
+  {
+    "key": "leek2010_batch_review",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Tackling the widespread and critical impact of batch effects in high-throughput data",
+    "api_data": {
+      "title": "Tackling the widespread and critical impact of batch effects in high-throughput data",
+      "year": 2010,
+      "authors": [
+        "Jeffrey T. Leek",
+        "Robert B. Scharpf",
+        "Héctor Corrada Bravo",
+        "David Simcha",
+        "Benjamin Langmead",
+        "W. Evan Johnson",
+        "Donald Geman",
+        "Keith Baggerly",
+        "Rafael A. Irizarry"
+      ],
+      "venue": "Nature Reviews Genetics"
+    }
+  },
+  {
+    "key": "vickers2006_decision",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Decision curve analysis: a novel method for evaluating prediction models",
+    "api_data": {
+      "title": "Decision Curve Analysis: A Novel Method for Evaluating Prediction Models",
+      "year": 2006,
+      "authors": [
+        "Andrew J. Vickers",
+        "Elena B. Elkin"
+      ],
+      "venue": "Medical Decision Making"
+    }
+  },
+  {
+    "key": "vickers2019_dca_guide",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "A simple, step-by-step guide to interpreting decision curve analysis",
+    "api_data": {
+      "title": "A simple, step-by-step guide to interpreting decision curve analysis",
+      "year": 2019,
+      "authors": [
+        "Andrew J. Vickers",
+        "Ben van Calster",
+        "Ewout W. Steyerberg"
+      ],
+      "venue": "Diagnostic and Prognostic Research"
+    }
+  },
+  {
+    "key": "austin2019_ici",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "The integrated calibration index (ICI) and related metrics for quantifying the calibration of logistic regression models",
+    "api_data": {
+      "title": "The Integrated Calibration Index (ICI) and related metrics for quantifying the calibration of logistic regression models",
+      "year": 2019,
+      "authors": [
+        "Peter C. Austin",
+        "Ewout W. Steyerberg"
+      ],
+      "venue": "Statistics in Medicine"
+    }
+  },
+  {
+    "key": "patil2015_testset",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Test set bias affects reproducibility of gene signatures",
+    "api_data": {
+      "title": "Test set bias affects reproducibility of gene signatures",
+      "year": 2015,
+      "authors": [
+        "Prasad Patil",
+        "Pierre-Olivier Bachant-Winner",
+        "Benjamin Haibe-Kains",
+        "Jeffrey T. Leek"
+      ],
+      "venue": "Bioinformatics"
+    }
+  },
+  {
+    "key": "moons2025_probast_ai",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+    "api_data": {
+      "title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+      "year": 2025,
+      "authors": [
+        "Karel G M Moons",
+        "Johanna A A Damen",
+        "Tabea Kaul",
+        "Lotty Hooft",
+        "Constanza Andaur Navarro",
+        "Paula Dhiman",
+        "Andrew L Beam",
+        "Ben Van Calster",
+        "Leo Anthony Celi",
+        "Spiros Denaxas",
+        "Alastair K Denniston",
+        "Marzyeh Ghassemi",
+        "Georg Heinze",
+        "André Pascal Kengne",
+        "Lena Maier-Hein",
+        "Xiaoxuan Liu",
+        "Patricia Logullo",
+        "Melissa D McCradden",
+        "Nan Liu",
+        "Lauren Oakden-Rayner",
+        "Karandeep Singh",
+        "Daniel S Ting",
+        "Laure Wynants",
+        "Bada Yang",
+        "Johannes B Reitsma",
+        "Richard D Riley",
+        "Gary S Collins",
+        "Maarten van Smeden"
+      ],
+      "venue": "BMJ"
+    }
+  },
+  {
+    "key": "tcga2012_crc",
+    "status": "ERROR",
+    "issues": [
+      "第一作者姓氏不匹配: bib='network', 实际='' (相似度 0.0%)"
+    ],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Comprehensive molecular characterization of human colon and rectal cancer",
+    "api_data": {
+      "title": "Comprehensive molecular characterization of human colon and rectal cancer",
+      "year": 2012,
+      "authors": [
+        ""
+      ],
+      "venue": "Nature"
+    }
+  },
+  {
+    "key": "bartley2022_msi_guideline",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Mismatch Repair and Microsatellite Instability Testing for Immune Checkpoint Inhibitor Therapy: Guideline From the College of American Pathologists in Collaboration With the Association for Molecular Pathology and Fight Colorectal Cancer",
+    "api_data": {
+      "title": "Mismatch Repair and Microsatellite Instability Testing for Immune Checkpoint Inhibitor Therapy: Guideline From the College of American Pathologists in Collaboration With the Association for Molecular Pathology and Fight Colorectal Cancer",
+      "year": 2022,
+      "authors": [
+        "Angela N. Bartley",
+        "Anne M. Mills",
+        "Eric Konnick",
+        "Michael Overman",
+        "Christina B. Ventura",
+        "Lesley Souter",
+        "Carol Colasacco",
+        "Zsofia K. Stadler",
+        "Sarah Kerr",
+        "Brooke E Howitt",
+        "Heather Hampel",
+        "Sarah F. Adams",
+        "Wenora Johnson",
+        "Cristina Magi-Galluzzi",
+        "Antonia R. Sepulveda",
+        "Russell R. Broaddus"
+      ],
+      "venue": "Archives of Pathology &amp; Laboratory Medicine"
+    }
+  },
+  {
+    "key": "andre2020_pembrolizumab",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Pembrolizumab in Microsatellite-Instability--High Advanced Colorectal Cancer",
+    "api_data": {
+      "title": "Pembrolizumab in Microsatellite-Instability–High Advanced Colorectal Cancer",
+      "year": 2020,
+      "authors": [
+        "Thierry André",
+        "Kai-Keen Shiu",
+        "Tae Won Kim",
+        "Benny Vittrup Jensen",
+        "Lars Henrik Jensen",
+        "Cornelis Punt",
+        "Denis Smith",
+        "Rocio Garcia-Carbonero",
+        "Manuel Benavides",
+        "Peter Gibbs",
+        "Christelle de la Fouchardiere",
+        "Fernando Rivera",
+        "Elena Elez",
+        "Johanna Bendell",
+        "Dung T. Le",
+        "Takayuki Yoshino",
+        "Eric Van Cutsem",
+        "Ping Yang",
+        "Mohammed Z.H. Farooqui",
+        "Patricia Marinello",
+        "Luis A. Diaz"
+      ],
+      "venue": "New England Journal of Medicine"
+    }
+  },
+  {
+    "key": "cai2025_pianos",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Personalized risk stratification in colorectal cancer via PIANOS system",
+    "api_data": {
+      "title": "Personalized risk stratification in colorectal cancer via PIANOS system",
+      "year": 2025,
+      "authors": [
+        "Du Cai",
+        "Haoning Qi",
+        "Qiuxia Yang",
+        "Huayu Li",
+        "Chenghang Li",
+        "Chuling Hu",
+        "Baowen Gai",
+        "Xu Zhang",
+        "Yize Mao",
+        "Feng Gao",
+        "Xiaojian Wu"
+      ],
+      "venue": "Nature Communications"
+    }
+  },
+  {
+    "key": "van2024_rnaseq_preprocessing",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "A comparison of RNA-Seq data preprocessing pipelines for transcriptomic predictions across independent studies",
+    "api_data": {
+      "title": "A comparison of RNA-Seq data preprocessing pipelines for transcriptomic predictions across independent studies",
+      "year": 2024,
+      "authors": [
+        "Richard Van",
+        "Daniel Alvarez",
+        "Travis Mize",
+        "Sravani Gannavarapu",
+        "Lohitha Chintham Reddy",
+        "Fatma Nasoz",
+        "Mira V. Han"
+      ],
+      "venue": "BMC Bioinformatics"
+    }
+  },
+  {
+    "key": "eriksson2022_single_sample",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "A comparison of rule-based and centroid single-sample multiclass predictors for transcriptomic classification",
+    "api_data": {
+      "title": "A comparison of rule-based and centroid single-sample multiclass predictors for transcriptomic classification",
+      "year": 2022,
+      "authors": [
+        "Pontus Eriksson",
+        "Nour-al-dain Marzouka",
+        "Gottfrid Sjödahl",
+        "Carina Bernardo",
+        "Fredrik Liedberg",
+        "Mattias Höglund"
+      ],
+      "venue": "Bioinformatics"
+    }
+  },
+  {
+    "key": "onskog2011_synergistic",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Classification of microarrays: synergistic effects between normalization, gene selection and machine learning",
+    "api_data": {
+      "title": "Classification of microarrays; synergistic effects between normalization, gene selection and machine learning",
+      "year": 2011,
+      "authors": [
+        "Jenny Önskog",
+        "Eva Freyhult",
+        "Mattias Landfors",
+        "Patrik Rydén",
+        "Torgeir R Hvidsten"
+      ],
+      "venue": "BMC Bioinformatics"
+    }
+  },
+  {
+    "key": "huang2018_normalization",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Empirical evaluation of data normalization methods for molecular classification",
+    "api_data": {
+      "title": "Empirical evaluation of data normalization methods for molecular classification",
+      "year": 2018,
+      "authors": [
+        "Huei-Chung Huang",
+        "Li-Xuan Qin"
+      ],
+      "venue": "PeerJ"
+    }
+  },
+  {
+    "key": "debray2015_external_validation",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "A new framework to enhance the interpretation of external validation studies of clinical prediction models",
+    "api_data": {
+      "title": "A new framework to enhance the interpretation of external validation studies of clinical prediction models",
+      "year": 2015,
+      "authors": [
+        "Thomas P.A. Debray",
+        "Yvonne Vergouwe",
+        "Hendrik Koffijberg",
+        "Daan Nieboer",
+        "Ewout W. Steyerberg",
+        "Karel G.M. Moons"
+      ],
+      "venue": "Journal of Clinical Epidemiology"
+    }
+  },
+  {
+    "key": "takada2021_iec_validation",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "Internal-external cross-validation helped to evaluate the generalizability of prediction models in large clustered datasets",
+    "api_data": {
+      "title": "Internal-external cross-validation helped to evaluate the generalizability of prediction models in large clustered datasets",
+      "year": 2021,
+      "authors": [
+        "Toshihiko Takada",
+        "Steven Nijman",
+        "Spiros Denaxas",
+        "Kym I.E. Snell",
+        "Alicia Uijl",
+        "Tri-Long Nguyen",
+        "Folkert W. Asselbergs",
+        "Thomas P.A. Debray"
+      ],
+      "venue": "Journal of Clinical Epidemiology"
+    }
+  },
+  {
+    "key": "markowitz1995_tgfbr2",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 96.41025641025641,
+    "bib_title": "Inactivation of the type II TGF-beta receptor in colon cancer cells with microsatellite instability",
+    "api_data": {
+      "title": "Inactivation of the Type II TGF-β Receptor in Colon Cancer Cells with Microsatellite Instability",
+      "year": 1995,
+      "authors": [
+        "Sanford Markowitz",
+        "Jing Wang",
+        "Lois Myeroff",
+        "Ramon Parsons",
+        "LuZhe Sun",
+        "James Lutterbaugh",
+        "Robert S. Fan",
+        "Elizabeth Zborowska",
+        "Kenneth W. Kinzler",
+        "Bert Vogelstein",
+        "Michael Brattain",
+        "James K. V. Willson"
+      ],
+      "venue": "Science"
+    }
+  },
+  {
+    "key": "kolberg2023_gprofiler",
+    "status": "OK",
+    "issues": [],
+    "source": "crossref",
+    "match_score": 100.0,
+    "bib_title": "g:Profiler---interoperable web service for functional enrichment analysis and gene identifier mapping (2023 update)",
+    "api_data": {
+      "title": "g:Profiler—interoperable web service for functional enrichment analysis and gene identifier mapping (2023 update)",
+      "year": 2023,
+      "authors": [
+        "Liis Kolberg",
+        "Uku Raudvere",
+        "Ivan Kuzmin",
+        "Priit Adler",
+        "Jaak Vilo",
+        "Hedi Peterson"
+      ],
+      "venue": "Nucleic Acids Research"
+    }
+  }
+]

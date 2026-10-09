@@ -1,0 +1,14 @@
+{
+  "seed": 20261008,
+  "discovery": "TCGA_COAD",
+  "external": ["GSE13294", "GSE13067", "GSE18088", "GSE26682", "GSE39084"],
+  "representations": ["fixed_log_expression", "target_cohort_adaptive_zscore", "single_sample_rank"],
+  "models": ["elastic_net", "svm_rbf", "xgboost"],
+  "cv_splits": 3,
+  "feature_budget": 200,
+  "compact_gene_count": 20,
+  "stability_bootstraps": 500,
+  "bootstrap_replicates": 2000,
+  "n_jobs": 2,
+  "xgboost_early_stopping_rounds": 20
+}

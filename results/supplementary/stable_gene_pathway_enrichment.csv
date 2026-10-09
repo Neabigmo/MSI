@@ -1,0 +1,1647 @@
+source,native,name,p_value,significant,term_size,query_size,intersection_size,effective_domain_size
+KEGG,KEGG:05210,Colorectal cancer,0.0545884438526806,False,79,27,3,11419
+REAC,REAC:R-HSA-3642279,TGFBR2 MSI Frameshift Mutants in Cancer,0.08848531361288235,False,2,27,1,11419
+REAC,REAC:R-HSA-3656535,TGFBR1 LBD Mutants in Cancer,0.08848531361288235,False,3,27,1,11419
+REAC,REAC:R-HSA-3645790,TGFBR2 Kinase Domain Mutants in Cancer,0.08848531361288235,False,3,27,1,11419
+REAC,REAC:R-HSA-8941284,RUNX2 regulates chondrocyte maturation,0.08848531361288235,False,4,27,1,11419
+REAC,REAC:R-HSA-5632681,Ligand-receptor interactions,0.08848531361288235,False,5,27,1,11419
+REAC,REAC:R-HSA-3656534,Loss of Function of TGFBR1 in Cancer,0.08848531361288235,False,5,27,1,11419
+REAC,REAC:R-HSA-1912399,Pre-NOTCH Processing in the Endoplasmic Reticulum,0.08848531361288235,False,6,27,1,11419
+REAC,REAC:R-HSA-1500620,Meiosis,0.08848531361288235,False,46,27,2,11419
+REAC,REAC:R-HSA-3642278,Loss of Function of TGFBR2 in Cancer,0.08848531361288235,False,3,27,1,11419
+REAC,REAC:R-HSA-912446,Meiotic recombination,0.08848531361288235,False,23,27,2,11419
+REAC,REAC:R-HSA-5658034,HHAT G278V doesn't palmitoylate Hh-Np,0.08848531361288235,False,3,27,1,11419
+REAC,REAC:R-HSA-5423599,Diseases of Mismatch Repair (MMR),0.08848531361288235,False,4,27,1,11419
+REAC,REAC:R-HSA-9758920,Formation of lateral plate mesoderm,0.08848531361288235,False,4,27,1,11419
+REAC,REAC:R-HSA-5545483,Defective Mismatch Repair Associated With MLH1,0.08848531361288235,False,1,27,1,11419
+REAC,REAC:R-HSA-3304349,Loss of Function of SMAD2/3 in Cancer,0.08848531361288235,False,6,27,1,11419
+REAC,REAC:R-HSA-5632987,Defective Mismatch Repair Associated With PMS2,0.08848531361288235,False,1,27,1,11419
+REAC,REAC:R-HSA-5340588,Signaling by RNF43 mutants,0.08848531361288235,False,6,27,1,11419
+REAC,REAC:R-HSA-3656532,TGFBR1 KD Mutants in Cancer,0.08848531361288235,False,5,27,1,11419
+REAC,REAC:R-HSA-3304356,SMAD2/3 Phosphorylation Motif Mutants in Cancer,0.08848531361288235,False,5,27,1,11419
+REAC,REAC:R-HSA-3304351,Signaling by TGF-beta Receptor Complex in Cancer,0.08848531361288235,False,6,27,1,11419
+REAC,REAC:R-HSA-5362798,Release of Hh-Np from the secreting cell,0.08848531361288235,False,4,27,1,11419
+REAC,REAC:R-HSA-1474165,Reproduction,0.08848531361288235,False,64,27,2,11419
+REAC,REAC:R-HSA-4411364,Binding of TCF/LEF:CTNNB1 to target gene promoters,0.09863223546572852,False,7,27,1,11419
+REAC,REAC:R-HSA-9754189,Germ layer formation at gastrulation,0.10139092796620428,False,11,27,1,11419
+REAC,REAC:R-HSA-189451,Heme biosynthesis,0.10139092796620428,False,11,27,1,11419
+REAC,REAC:R-HSA-9839389,TGFBR3 regulates TGF-beta signaling,0.10139092796620428,False,8,27,1,11419
+REAC,REAC:R-HSA-9796292,Formation of axial mesoderm,0.10139092796620428,False,11,27,1,11419
+REAC,REAC:R-HSA-4641263,Regulation of FZD by ubiquitination,0.10139092796620428,False,9,27,1,11419
+REAC,REAC:R-HSA-2173791,TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition),0.10139092796620428,False,10,27,1,11419
+REAC,REAC:R-HSA-9758941,Gastrulation,0.10139092796620428,False,93,27,2,11419
+REAC,REAC:R-HSA-209968,Thyroxine biosynthesis,0.10139092796620428,False,9,27,1,11419
+REAC,REAC:R-HSA-8951430,RUNX3 regulates WNT signaling,0.10139092796620428,False,8,27,1,11419
+REAC,REAC:R-HSA-4641265,Repression of WNT target genes,0.10139092796620428,False,11,27,1,11419
+REAC,REAC:R-HSA-9673324,WNT5:FZD7-mediated leishmania damping,0.10139092796620428,False,10,27,1,11419
+REAC,REAC:R-HSA-9664420,Killing mechanisms,0.10139092796620428,False,10,27,1,11419
+KEGG,KEGG:05226,Gastric cancer,0.10202120382873864,False,125,27,3,11419
+GO:BP,GO:0035162,embryonic hemopoiesis,0.10814801929790871,False,21,27,2,11419
+GO:BP,GO:0010575,positive regulation of vascular endothelial growth factor production,0.10814801929790871,False,26,27,2,11419
+GO:BP,GO:0006298,mismatch repair,0.10814801929790871,False,25,27,2,11419
+GO:BP,GO:0003413,chondrocyte differentiation involved in endochondral bone morphogenesis,0.10814801929790871,False,11,27,2,11419
+GO:BP,GO:0002651,positive regulation of tolerance induction to self antigen,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0009589,detection of UV,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0030704,vitelline membrane formation,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0042706,eye photoreceptor cell fate commitment,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0060351,cartilage development involved in endochondral bone morphogenesis,0.10814801929790871,False,29,27,2,11419
+GO:BP,GO:0007131,reciprocal meiotic recombination,0.10814801929790871,False,31,27,2,11419
+GO:BP,GO:0007129,homologous chromosome pairing at meiosis,0.10814801929790871,False,27,27,2,11419
+GO:BP,GO:0048086,negative regulation of developmental pigmentation,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0048074,negative regulation of eye pigmentation,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0035803,egg coat formation,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0140527,reciprocal homologous recombination,0.10814801929790871,False,31,27,2,11419
+GO:BP,GO:1990256,signal clustering,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0006666,3-keto-sphinganine metabolic process,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:1905317,inferior endocardial cushion morphogenesis,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0048514,blood vessel morphogenesis,0.10814801929790871,False,527,27,6,11419
+GO:BP,GO:0038018,Wnt receptor catabolic process,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0060220,camera-type eye photoreceptor cell fate commitment,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0002649,regulation of tolerance induction to self antigen,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0001568,blood vessel development,0.10814801929790871,False,599,27,6,11419
+GO:BP,GO:0034213,quinolinate catabolic process,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0002053,positive regulation of mesenchymal cell proliferation,0.10814801929790871,False,26,27,2,11419
+GO:BP,GO:0010574,regulation of vascular endothelial growth factor production,0.10814801929790871,False,28,27,2,11419
+GO:BP,GO:0010573,vascular endothelial growth factor production,0.10814801929790871,False,31,27,2,11419
+GO:BP,GO:0007292,female gamete generation,0.10814801929790871,False,97,27,3,11419
+GO:BP,GO:0046552,photoreceptor cell fate commitment,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0001569,branching involved in blood vessel morphogenesis,0.10814801929790871,False,28,27,2,11419
+GO:BP,GO:0007060,male meiosis chromosome segregation,0.10814801929790871,False,1,27,1,11419
+GO:BP,GO:0001525,angiogenesis,0.10814801929790871,False,451,27,6,11419
+GO:BP,GO:0002376,immune system process,0.1121178389995701,False,1902,27,11,11419
+REAC,REAC:R-HSA-5358606,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta),0.11252875548668892,False,13,27,1,11419
+REAC,REAC:R-HSA-5358565,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha),0.11252875548668892,False,13,27,1,11419
+REAC,REAC:R-HSA-5635838,Activation of SMO,0.11252875548668892,False,14,27,1,11419
+REAC,REAC:R-HSA-209776,Metabolism of amine-derived hormones,0.11252875548668892,False,14,27,1,11419
+REAC,REAC:R-HSA-5358508,Mismatch Repair,0.11252875548668892,False,14,27,1,11419
+GO:BP,GO:0010464,regulation of mesenchymal cell proliferation,0.11524076671285666,False,33,27,2,11419
+REAC,REAC:R-HSA-9825892,Regulation of MITF-M-dependent genes involved in cell cycle and proliferation,0.1174925144023325,False,15,27,1,11419
+GO:BP,GO:0001944,vasculature development,0.11916065316380778,False,625,27,6,11419
+GO:BP,GO:0070192,chromosome organization involved in meiotic cell cycle,0.12044206272790967,False,38,27,2,11419
+GO:BP,GO:0042743,hydrogen peroxide metabolic process,0.12044206272790967,False,38,27,2,11419
+GO:BP,GO:0009605,response to external stimulus,0.12044206272790967,False,1678,27,10,11419
+GO:BP,GO:0048468,cell development,0.12044206272790967,False,1962,27,11,11419
+GO:BP,GO:0051716,cellular response to stimulus,0.12044206272790967,False,4846,27,19,11419
+GO:BP,GO:0045143,homologous chromosome segregation,0.12044206272790967,False,36,27,2,11419
+GO:BP,GO:0048066,developmental pigmentation,0.12044206272790967,False,38,27,2,11419
+GO:BP,GO:0035825,homologous recombination,0.12044206272790967,False,37,27,2,11419
+GO:BP,GO:0010463,mesenchymal cell proliferation,0.12120438800142581,False,44,27,2,11419
+GO:BP,GO:0061371,determination of heart left/right asymmetry,0.12120438800142581,False,44,27,2,11419
+GO:BP,GO:0001947,heart looping,0.12120438800142581,False,42,27,2,11419
+GO:BP,GO:0016539,intein-mediated protein splicing,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0051257,meiotic spindle midzone assembly,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0030908,protein splicing,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0045950,negative regulation of mitotic recombination,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:1905050,positive regulation of metallopeptidase activity,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0070105,positive regulation of interleukin-6-mediated signaling pathway,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0048073,regulation of eye pigmentation,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:1904685,positive regulation of metalloendopeptidase activity,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0002663,positive regulation of B cell tolerance induction,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0060434,bronchus morphogenesis,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0002661,regulation of B cell tolerance induction,0.12120438800142581,False,2,27,1,11419
+GO:BP,GO:0003430,growth plate cartilage chondrocyte growth,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0003186,tricuspid valve morphogenesis,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0033087,negative regulation of immature T cell proliferation,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0033088,negative regulation of immature T cell proliferation in thymus,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:1905005,regulation of epithelial to mesenchymal transition involved in endocardial cushion formation,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0003274,endocardial cushion fusion,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0048856,anatomical structure development,0.12499722724222853,False,4001,27,16,11419
+GO:BP,GO:0035050,embryonic heart tube development,0.12499722724222853,False,57,27,2,11419
+GO:BP,GO:0061053,somite development,0.12499722724222853,False,61,27,2,11419
+GO:BP,GO:0003143,embryonic heart tube morphogenesis,0.12499722724222853,False,47,27,2,11419
+GO:BP,GO:0051138,positive regulation of NK T cell differentiation,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0051240,positive regulation of multicellular organismal process,0.12499722724222853,False,1266,27,8,11419
+GO:BP,GO:0046638,positive regulation of alpha-beta T cell differentiation,0.12499722724222853,False,47,27,2,11419
+GO:BP,GO:0072593,reactive oxygen species metabolic process,0.12499722724222853,False,179,27,3,11419
+GO:BP,GO:0045619,regulation of lymphocyte differentiation,0.12499722724222853,False,176,27,3,11419
+GO:BP,GO:0048477,oogenesis,0.12499722724222853,False,61,27,2,11419
+GO:BP,GO:0045726,positive regulation of integrin biosynthetic process,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0009636,response to toxic substance,0.12499722724222853,False,181,27,3,11419
+GO:BP,GO:0061844,antimicrobial humoral immune response mediated by antimicrobial peptide,0.12499722724222853,False,63,27,2,11419
+GO:BP,GO:0061520,Langerhans cell differentiation,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0010957,negative regulation of vitamin D biosynthetic process,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0035239,tube morphogenesis,0.12499722724222853,False,705,27,6,11419
+GO:BP,GO:0010556,regulation of macromolecule biosynthetic process,0.12499722724222853,False,3284,27,14,11419
+GO:BP,GO:0002514,B cell tolerance induction,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:1990428,miRNA transport,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0003431,growth plate cartilage chondrocyte development,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0003175,tricuspid valve development,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0000019,regulation of mitotic recombination,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0071613,granzyme B production,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0071663,positive regulation of granzyme B production,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0051311,meiotic metaphase chromosome alignment,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0043060,meiotic metaphase I homologous chromosome alignment,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0045580,regulation of T cell differentiation,0.12499722724222853,False,154,27,3,11419
+GO:BP,GO:0048296,regulation of isotype switching to IgA isotypes,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0071661,regulation of granzyme B production,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0032502,developmental process,0.12499722724222853,False,4324,27,17,11419
+GO:BP,GO:0051597,response to methylmercury,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0007275,multicellular organism development,0.12499722724222853,False,3280,27,14,11419
+GO:BP,GO:0060350,endochondral bone morphogenesis,0.12499722724222853,False,51,27,2,11419
+GO:BP,GO:0017085,response to insecticide,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0070103,regulation of interleukin-6-mediated signaling pathway,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:1990086,lens fiber cell apoptotic process,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:1905279,"regulation of retrograde transport, endosome to Golgi",0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:1905007,positive regulation of epithelial to mesenchymal transition involved in endocardial cushion formation,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:1902897,regulation of postsynaptic density protein 95 clustering,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0045112,integrin biosynthetic process,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0045132,meiotic chromosome segregation,0.12499722724222853,False,56,27,2,11419
+GO:BP,GO:1903542,negative regulation of exosomal secretion,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:1902952,positive regulation of dendritic spine maintenance,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0070541,response to platinum ion,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:0048298,positive regulation of isotype switching to IgA isotypes,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0036066,protein O-linked glycosylation via fucose,0.12499722724222853,False,3,27,1,11419
+GO:BP,GO:1905048,regulation of metallopeptidase activity,0.12499722724222853,False,4,27,1,11419
+GO:BP,GO:0045113,regulation of integrin biosynthetic process,0.12499722724222853,False,3,27,1,11419
+REAC,REAC:R-HSA-2024096,HS-GAG degradation,0.12523923345510057,False,18,27,1,11419
+REAC,REAC:R-HSA-2173788,Downregulation of TGF-beta receptor signaling,0.12523923345510057,False,18,27,1,11419
+REAC,REAC:R-HSA-416700,Other semaphorin interactions,0.12523923345510057,False,17,27,1,11419
+REAC,REAC:R-HSA-196807,Nicotinate metabolism,0.12523923345510057,False,18,27,1,11419
+REAC,REAC:R-HSA-201681,TCF dependent signaling in response to WNT,0.12523923345510057,False,137,27,2,11419
+GO:BP,GO:0046635,positive regulation of alpha-beta T cell activation,0.12769203908993346,False,64,27,2,11419
+GO:BP,GO:0050896,response to stimulus,0.12812676535548642,False,5732,27,20,11419
+GO:BP,GO:0046637,regulation of alpha-beta T cell differentiation,0.12847946585175823,False,65,27,2,11419
+GO:BP,GO:0048869,cellular developmental process,0.12847946585175823,False,2951,27,13,11419
+GO:BP,GO:0030154,cell differentiation,0.12847946585175823,False,2950,27,13,11419
+REAC,REAC:R-HSA-5083635,Defective B3GALTL causes PpS,0.12923776357923591,False,19,27,1,11419
+REAC,REAC:R-HSA-5173214,O-glycosylation of TSR domain-containing proteins,0.1303394038735628,False,20,27,1,11419
+REAC,REAC:R-HSA-5668599,RHO GTPases Activate NADPH Oxidases,0.1303394038735628,False,20,27,1,11419
+GO:BP,GO:0051136,regulation of NK T cell differentiation,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:2000503,positive regulation of natural killer cell chemotaxis,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0048757,pigment granule maturation,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0061343,cell adhesion involved in heart morphogenesis,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0016321,female meiosis chromosome segregation,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0046874,quinolinate metabolic process,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0001819,positive regulation of cytokine production,0.13155374166855385,False,381,27,4,11419
+GO:BP,GO:0048290,isotype switching to IgA isotypes,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0035646,endosome to melanosome transport,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0043485,endosome to pigment granule transport,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0048069,eye pigmentation,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0072592,oxygen metabolic process,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0071455,cellular response to hyperoxia,0.13155374166855385,False,5,27,1,11419
+GO:BP,GO:0003149,membranous septum morphogenesis,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0046137,negative regulation of vitamin metabolic process,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0009889,regulation of biosynthetic process,0.1347110130077301,False,3400,27,14,11419
+GO:BP,GO:0002513,tolerance induction to self antigen,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0035295,tube development,0.1347110130077301,False,868,27,6,11419
+GO:BP,GO:0060556,regulation of vitamin D biosynthetic process,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0002684,positive regulation of immune system process,0.1347110130077301,False,841,27,6,11419
+GO:BP,GO:0003406,retinal pigment epithelium development,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0048584,positive regulation of response to stimulus,0.1347110130077301,False,1704,27,9,11419
+GO:BP,GO:0010950,positive regulation of endopeptidase activity,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0006029,proteoglycan metabolic process,0.1347110130077301,False,74,27,2,11419
+GO:BP,GO:0003433,chondrocyte development involved in endochondral bone morphogenesis,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0090220,chromosome localization to nuclear envelope involved in homologous chromosome segregation,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0097119,postsynaptic density protein 95 clustering,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0000712,resolution of meiotic recombination intermediates,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0007127,meiosis I,0.1347110130077301,False,75,27,2,11419
+GO:BP,GO:0043476,pigment accumulation,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0045141,meiotic telomere clustering,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0051249,regulation of lymphocyte activation,0.1347110130077301,False,391,27,4,11419
+GO:BP,GO:0140673,transcription elongation-coupled chromatin remodeling,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0003415,chondrocyte hypertrophy,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0043482,cellular pigment accumulation,0.1347110130077301,False,6,27,1,11419
+GO:BP,GO:0072359,circulatory system development,0.1363608962884471,False,898,27,6,11419
+GO:BP,GO:0060349,bone morphogenesis,0.1363608962884471,False,83,27,2,11419
+GO:BP,GO:0009100,glycoprotein metabolic process,0.1363608962884471,False,228,27,3,11419
+GO:BP,GO:0060463,lung lobe morphogenesis,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0007162,negative regulation of cell adhesion,0.1363608962884471,False,227,27,3,11419
+GO:BP,GO:0007368,determination of left/right symmetry,0.1363608962884471,False,78,27,2,11419
+GO:BP,GO:0060462,lung lobe development,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0060732,positive regulation of inositol phosphate biosynthetic process,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0045737,positive regulation of cyclin-dependent protein serine/threonine kinase activity,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0060440,trachea formation,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0003418,growth plate cartilage chondrocyte differentiation,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0010628,positive regulation of gene expression,0.1363608962884471,False,882,27,6,11419
+GO:BP,GO:0060972,left/right pattern formation,0.1363608962884471,False,82,27,2,11419
+GO:BP,GO:0034397,telomere localization,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:2000501,regulation of natural killer cell chemotaxis,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0061982,meiosis I cell cycle process,0.1363608962884471,False,80,27,2,11419
+GO:BP,GO:0046984,regulation of hemoglobin biosynthetic process,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:1904031,positive regulation of cyclin-dependent protein kinase activity,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0009967,positive regulation of signal transduction,0.1363608962884471,False,1158,27,7,11419
+GO:BP,GO:0033085,negative regulation of T cell differentiation in thymus,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0048842,positive regulation of axon extension involved in axon guidance,0.1363608962884471,False,7,27,1,11419
+GO:BP,GO:0006310,DNA recombination,0.1363608962884471,False,229,27,3,11419
+GO:BP,GO:0046649,lymphocyte activation,0.1363608962884471,False,632,27,5,11419
+GO:BP,GO:0006368,transcription elongation by RNA polymerase II,0.13727808875959902,False,84,27,2,11419
+REAC,REAC:R-HSA-189445,Metabolism of porphyrins,0.14018812224841923,False,22,27,1,11419
+GO:BP,GO:0033690,positive regulation of osteoblast proliferation,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0070586,cell-cell adhesion involved in gastrulation,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0070587,regulation of cell-cell adhesion involved in gastrulation,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0009855,determination of bilateral symmetry,0.1416764522327685,False,86,27,2,11419
+GO:BP,GO:0002682,regulation of immune system process,0.1416764522327685,False,1187,27,7,11419
+GO:BP,GO:0043473,pigmentation,0.1416764522327685,False,87,27,2,11419
+GO:BP,GO:0048646,anatomical structure formation involved in morphogenesis,0.1416764522327685,False,915,27,6,11419
+GO:BP,GO:0002694,regulation of leukocyte activation,0.1416764522327685,False,436,27,4,11419
+GO:BP,GO:0030836,positive regulation of actin filament depolymerization,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0048843,negative regulation of axon extension involved in axon guidance,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0009799,specification of symmetry,0.1416764522327685,False,86,27,2,11419
+GO:BP,GO:0006785,heme B biosynthetic process,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:1902177,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0019730,antimicrobial humoral response,0.1416764522327685,False,89,27,2,11419
+GO:BP,GO:0007165,signal transduction,0.1416764522327685,False,3915,27,15,11419
+GO:BP,GO:0034115,negative regulation of heterotypic cell-cell adhesion,0.1416764522327685,False,8,27,1,11419
+GO:BP,GO:0002062,chondrocyte differentiation,0.14480069100141618,False,93,27,2,11419
+GO:BP,GO:0007224,smoothened signaling pathway,0.14480069100141618,False,93,27,2,11419
+GO:BP,GO:0097264,self proteolysis,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0045586,regulation of gamma-delta T cell differentiation,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0072089,stem cell proliferation,0.14480069100141618,False,95,27,2,11419
+GO:BP,GO:0048034,heme O biosynthetic process,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0048304,positive regulation of isotype switching to IgG isotypes,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0035747,natural killer cell chemotaxis,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0046634,regulation of alpha-beta T cell activation,0.14480069100141618,False,95,27,2,11419
+GO:BP,GO:0006354,DNA-templated transcription elongation,0.14480069100141618,False,95,27,2,11419
+GO:BP,GO:0010919,regulation of inositol phosphate biosynthetic process,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0062043,positive regulation of cardiac epithelial to mesenchymal transition,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0010977,negative regulation of neuron projection development,0.14480069100141618,False,93,27,2,11419
+GO:BP,GO:2000563,"positive regulation of CD4-positive, alpha-beta T cell proliferation",0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:2000343,positive regulation of chemokine (C-X-C motif) ligand 2 production,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0048731,system development,0.14480069100141618,False,2836,27,12,11419
+GO:BP,GO:0062042,regulation of cardiac epithelial to mesenchymal transition,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0030200,heparan sulfate proteoglycan catabolic process,0.14480069100141618,False,9,27,1,11419
+GO:BP,GO:0030656,regulation of vitamin metabolic process,0.14480069100141618,False,9,27,1,11419
+REAC,REAC:R-HSA-1266738,Developmental Biology,0.14553383306245887,False,886,27,5,11419
+REAC,REAC:R-HSA-9619665,EGR2 and SOX10-mediated initiation of Schwann cell myelination,0.14631372610214383,False,25,27,1,11419
+REAC,REAC:R-HSA-5663202,Diseases of signal transduction by growth factor receptors and second messengers,0.14631372610214383,False,383,27,3,11419
+REAC,REAC:R-HSA-201722,Formation of the beta-catenin:TCF transactivating complex,0.14631372610214383,False,26,27,1,11419
+REAC,REAC:R-HSA-1660661,Sphingolipid de novo biosynthesis,0.14631372610214383,False,26,27,1,11419
+REAC,REAC:R-HSA-9616222,Transcriptional regulation of granulopoiesis,0.14631372610214383,False,26,27,1,11419
+REAC,REAC:R-HSA-8941326,RUNX2 regulates bone development,0.14631372610214383,False,26,27,1,11419
+GO:BP,GO:0010468,regulation of gene expression,0.14725985564779298,False,3217,27,13,11419
+GO:BP,GO:0006784,heme A biosynthetic process,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0008284,positive regulation of cell population proliferation,0.14737318287050516,False,698,27,5,11419
+GO:BP,GO:0051239,regulation of multicellular organismal process,0.14737318287050516,False,2184,27,10,11419
+GO:BP,GO:0001865,NK T cell differentiation,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:1902105,regulation of leukocyte differentiation,0.14737318287050516,False,262,27,3,11419
+GO:BP,GO:0048706,embryonic skeletal system development,0.14737318287050516,False,99,27,2,11419
+GO:BP,GO:0036295,cellular response to increased oxygen levels,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0009435,NAD+ biosynthetic process,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0002666,positive regulation of T cell tolerance induction,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0060439,trachea morphogenesis,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0033083,regulation of immature T cell proliferation,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0009966,regulation of signal transduction,0.14737318287050516,False,2180,27,10,11419
+GO:BP,GO:0033084,regulation of immature T cell proliferation in thymus,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0060433,bronchus development,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0048583,regulation of response to stimulus,0.14737318287050516,False,2867,27,12,11419
+GO:BP,GO:0046643,regulation of gamma-delta T cell activation,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0046501,protoporphyrinogen IX metabolic process,0.14737318287050516,False,10,27,1,11419
+GO:BP,GO:0030217,T cell differentiation,0.14737318287050516,False,259,27,3,11419
+GO:BP,GO:0051251,positive regulation of lymphocyte activation,0.14947478889171792,False,265,27,3,11419
+GO:BP,GO:0010557,positive regulation of macromolecule biosynthetic process,0.14947478889171792,False,1876,27,9,11419
+GO:BP,GO:0051225,spindle assembly,0.14947478889171792,False,102,27,2,11419
+GO:BP,GO:0045582,positive regulation of T cell differentiation,0.15041097543149595,False,106,27,2,11419
+GO:BP,GO:0019363,pyridine nucleotide biosynthetic process,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0033079,immature T cell proliferation,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0051255,spindle midzone assembly,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:1902950,regulation of dendritic spine maintenance,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0033080,immature T cell proliferation in thymus,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0048070,regulation of developmental pigmentation,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0042368,vitamin D biosynthetic process,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0019359,nicotinamide nucleotide biosynthetic process,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0016446,somatic hypermutation of immunoglobulin genes,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0051798,positive regulation of hair follicle development,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0034379,very-low-density lipoprotein particle assembly,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0033089,positive regulation of T cell differentiation in thymus,0.15041097543149595,False,11,27,1,11419
+GO:BP,GO:0050865,regulation of cell activation,0.15041097543149595,False,482,27,4,11419
+GO:BP,GO:0010952,positive regulation of peptidase activity,0.15041097543149595,False,11,27,1,11419
+KEGG,KEGG:05213,Endometrial cancer,0.1515409559417636,False,53,27,2,11419
+GO:BP,GO:0051094,positive regulation of developmental process,0.15202931568348252,False,996,27,6,11419
+GO:BP,GO:0002645,positive regulation of tolerance induction,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0002566,somatic diversification of immune receptors via somatic mutation,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0042541,hemoglobin biosynthetic process,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0030097,hemopoiesis,0.15527707021867213,False,743,27,5,11419
+GO:BP,GO:0002702,positive regulation of production of molecular mediator of immune response,0.15527707021867213,False,111,27,2,11419
+GO:BP,GO:0010647,positive regulation of cell communication,0.15527707021867213,False,1292,27,7,11419
+GO:BP,GO:0042492,gamma-delta T cell differentiation,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0120305,regulation of pigmentation,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0043649,dicarboxylic acid catabolic process,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0023056,positive regulation of signaling,0.15527707021867213,False,1294,27,7,11419
+GO:BP,GO:0046632,alpha-beta T cell differentiation,0.15527707021867213,False,109,27,2,11419
+GO:BP,GO:0048302,regulation of isotype switching to IgG isotypes,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0006004,fucose metabolic process,0.15527707021867213,False,12,27,1,11419
+GO:BP,GO:0002696,positive regulation of leukocyte activation,0.15916119407181473,False,285,27,3,11419
+GO:BP,GO:0006955,immune response,0.15919707479492293,False,1310,27,7,11419
+GO:BP,GO:0042221,response to chemical,0.1594437065148339,False,2616,27,11,11419
+GO:BP,GO:0140013,meiotic nuclear division,0.1597990779592485,False,114,27,2,11419
+GO:BP,GO:0003002,regionalization,0.1597990779592485,False,287,27,3,11419
+GO:BP,GO:0009891,positive regulation of biosynthetic process,0.16016041528168787,False,1949,27,9,11419
+GO:BP,GO:0072498,embryonic skeletal joint development,0.16016041528168787,False,13,27,1,11419
+GO:BP,GO:2001028,positive regulation of endothelial cell chemotaxis,0.16016041528168787,False,13,27,1,11419
+GO:BP,GO:0045321,leukocyte activation,0.16016041528168787,False,758,27,5,11419
+GO:BP,GO:0048291,isotype switching to IgG isotypes,0.16016041528168787,False,13,27,1,11419
+GO:BP,GO:0030167,proteoglycan catabolic process,0.16016041528168787,False,13,27,1,11419
+GO:BP,GO:0090136,epithelial cell-cell adhesion,0.16016041528168787,False,13,27,1,11419
+REAC,REAC:R-HSA-4791275,Signaling by WNT in cancer,0.16331464099292925,False,30,27,1,11419
+GO:BP,GO:0045621,positive regulation of lymphocyte differentiation,0.16530558207833582,False,118,27,2,11419
+REAC,REAC:R-HSA-3769402,Deactivation of the beta-catenin transactivating complex,0.1657110342209124,False,31,27,1,11419
+GO:BP,GO:0003198,epithelial to mesenchymal transition involved in endocardial cushion formation,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:0072525,pyridine-containing compound biosynthetic process,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:0002664,regulation of T cell tolerance induction,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:0048841,regulation of axon extension involved in axon guidance,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:1905874,regulation of postsynaptic density organization,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:1903232,melanosome assembly,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:0042362,fat-soluble vitamin biosynthetic process,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:0003214,cardiac left ventricle morphogenesis,0.16678637620701553,False,14,27,1,11419
+GO:BP,GO:0050867,positive regulation of cell activation,0.16798280089773435,False,300,27,3,11419
+GO:BP,GO:0060255,regulation of macromolecule metabolic process,0.168923755700609,False,3774,27,14,11419
+GO:BP,GO:2001135,regulation of endocytic recycling,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0050921,positive regulation of chemotaxis,0.1700546522839479,False,124,27,2,11419
+GO:BP,GO:0048557,embryonic digestive tract morphogenesis,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0072567,chemokine (C-X-C motif) ligand 2 production,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0007059,chromosome segregation,0.1700546522839479,False,303,27,3,11419
+GO:BP,GO:1901881,positive regulation of protein depolymerization,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0050863,regulation of T cell activation,0.1700546522839479,False,304,27,3,11419
+GO:BP,GO:0070102,interleukin-6-mediated signaling pathway,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0010288,response to lead ion,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0030202,heparin proteoglycan metabolic process,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0055093,response to hyperoxia,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:2000341,regulation of chemokine (C-X-C motif) ligand 2 production,0.1700546522839479,False,15,27,1,11419
+GO:BP,GO:0035739,"CD4-positive, alpha-beta T cell proliferation",0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:0002517,T cell tolerance induction,0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:0035372,protein localization to microtubule,0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:0003417,growth plate cartilage development,0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:1903541,regulation of exosomal secretion,0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:0020027,hemoglobin metabolic process,0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:2000561,"regulation of CD4-positive, alpha-beta T cell proliferation",0.17700022069559096,False,16,27,1,11419
+GO:BP,GO:1903046,meiotic cell cycle process,0.17788132978584442,False,130,27,2,11419
+GO:BP,GO:0007389,pattern specification process,0.18061421330620708,False,318,27,3,11419
+GO:BP,GO:0061024,membrane organization,0.1811044015393927,False,549,27,4,11419
+GO:BP,GO:0048754,branching morphogenesis of an epithelial tube,0.1811044015393927,False,132,27,2,11419
+GO:BP,GO:0023052,signaling,0.18126021031159603,False,4235,27,15,11419
+GO:BP,GO:0048666,neuron development,0.18126021031159603,False,810,27,5,11419
+GO:BP,GO:0043011,myeloid dendritic cell differentiation,0.18126892987760493,False,17,27,1,11419
+GO:BP,GO:0060438,trachea development,0.18126892987760493,False,17,27,1,11419
+GO:BP,GO:0002043,blood vessel endothelial cell proliferation involved in sprouting angiogenesis,0.18126892987760493,False,17,27,1,11419
+GO:BP,GO:0031345,negative regulation of cell projection organization,0.18126892987760493,False,133,27,2,11419
+GO:BP,GO:0016540,protein autoprocessing,0.18126892987760493,False,17,27,1,11419
+GO:BP,GO:0009790,embryo development,0.1813202556649147,False,822,27,5,11419
+GO:BP,GO:0060322,head development,0.1813202556649147,False,557,27,4,11419
+GO:BP,GO:0061042,vascular wound healing,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0007413,axonal fasciculation,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0046496,nicotinamide nucleotide metabolic process,0.1813202556649147,False,134,27,2,11419
+GO:BP,GO:0051797,regulation of hair follicle development,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0045662,negative regulation of myoblast differentiation,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0009058,biosynthetic process,0.1813202556649147,False,5084,27,17,11419
+GO:BP,GO:0006590,thyroid hormone generation,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:1903706,regulation of hemopoiesis,0.1813202556649147,False,324,27,3,11419
+GO:BP,GO:0048846,axon extension involved in axon guidance,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0042359,vitamin D metabolic process,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0140131,positive regulation of lymphocyte chemotaxis,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0106030,neuron projection fasciculation,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0007154,cell communication,0.1813202556649147,False,4256,27,15,11419
+GO:BP,GO:0007219,Notch signaling pathway,0.1813202556649147,False,135,27,2,11419
+GO:BP,GO:2001026,regulation of endothelial cell chemotaxis,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0002643,regulation of tolerance induction,0.1813202556649147,False,18,27,1,11419
+GO:BP,GO:0042129,regulation of T cell proliferation,0.18226499677185887,False,139,27,2,11419
+GO:BP,GO:0072524,pyridine-containing compound metabolic process,0.18226499677185887,False,139,27,2,11419
+GO:BP,GO:0045766,positive regulation of angiogenesis,0.18226499677185887,False,139,27,2,11419
+GO:BP,GO:0048568,embryonic organ development,0.18262770479878138,False,332,27,3,11419
+GO:BP,GO:0050793,regulation of developmental process,0.18344140464143285,False,1746,27,8,11419
+GO:BP,GO:1990182,exosomal secretion,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0032967,positive regulation of collagen biosynthetic process,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0046629,gamma-delta T cell activation,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0097062,dendritic spine maintenance,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0097421,liver regeneration,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0010714,positive regulation of collagen metabolic process,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0045830,positive regulation of isotype switching,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:0002323,natural killer cell activation involved in immune response,0.18344140464143285,False,19,27,1,11419
+GO:BP,GO:1902533,positive regulation of intracellular signal transduction,0.18344140464143285,False,833,27,5,11419
+GO:BP,GO:0016055,Wnt signaling pathway,0.18354242185551906,False,337,27,3,11419
+GO:BP,GO:1904018,positive regulation of vasculature development,0.18467375534445535,False,143,27,2,11419
+GO:BP,GO:0062009,secondary palate development,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0060219,camera-type eye photoreceptor cell differentiation,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0036296,response to increased oxygen levels,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0032958,inositol phosphate biosynthetic process,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0097734,extracellular exosome biogenesis,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0070723,response to cholesterol,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0032331,negative regulation of chondrocyte differentiation,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0048513,animal organ development,0.18537684377814412,False,2096,27,9,11419
+GO:BP,GO:0034114,regulation of heterotypic cell-cell adhesion,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0010894,negative regulation of steroid biosynthetic process,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0140112,extracellular vesicle biogenesis,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0000289,nuclear-transcribed mRNA poly(A) tail shortening,0.18537684377814412,False,20,27,1,11419
+GO:BP,GO:0033688,regulation of osteoblast proliferation,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0030194,positive regulation of blood coagulation,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0046641,positive regulation of alpha-beta T cell proliferation,0.1878096596728642,False,21,27,1,11419
+GO:BP,GO:0007399,nervous system development,0.1878096596728642,False,1790,27,8,11419
+GO:BP,GO:0051491,positive regulation of filopodium assembly,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0046685,response to arsenic-containing substance,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0007369,gastrulation,0.1878096596728642,False,150,27,2,11419
+GO:BP,GO:0032501,multicellular organismal process,0.1878096596728642,False,4775,27,16,11419
+GO:BP,GO:0016226,iron-sulfur cluster assembly,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0052548,regulation of endopeptidase activity,0.1878096596728642,False,21,27,1,11419
+GO:BP,GO:0035988,chondrocyte proliferation,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0071549,cellular response to dexamethasone stimulus,0.1878096596728642,False,21,27,1,11419
+GO:BP,GO:0001817,regulation of cytokine production,0.1878096596728642,False,589,27,4,11419
+GO:BP,GO:0001816,cytokine production,0.1878096596728642,False,594,27,4,11419
+GO:BP,GO:0010646,regulation of cell communication,0.1878096596728642,False,2470,27,10,11419
+GO:BP,GO:0003181,atrioventricular valve morphogenesis,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0031163,metallo-sulfur cluster assembly,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0032801,receptor catabolic process,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0050679,positive regulation of epithelial cell proliferation,0.1878096596728642,False,154,27,2,11419
+GO:BP,GO:0022408,negative regulation of cell-cell adhesion,0.1878096596728642,False,148,27,2,11419
+GO:BP,GO:0006312,mitotic recombination,0.1878096596728642,False,21,27,1,11419
+GO:BP,GO:0030098,lymphocyte differentiation,0.1878096596728642,False,346,27,3,11419
+GO:BP,GO:0046631,alpha-beta T cell activation,0.1878096596728642,False,151,27,2,11419
+GO:BP,GO:0023051,regulation of signaling,0.1878096596728642,False,2466,27,10,11419
+GO:BP,GO:0006950,response to stress,0.1878096596728642,False,2842,27,11,11419
+GO:BP,GO:1900048,positive regulation of hemostasis,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0006783,heme biosynthetic process,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0009893,positive regulation of metabolic process,0.1878096596728642,False,2465,27,10,11419
+GO:BP,GO:0009110,vitamin biosynthetic process,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0042403,thyroid hormone metabolic process,0.1878096596728642,False,22,27,1,11419
+GO:BP,GO:0001775,cell activation,0.1878096596728642,False,872,27,5,11419
+GO:BP,GO:0010720,positive regulation of cell development,0.1878096596728642,False,357,27,3,11419
+GO:BP,GO:0003148,outflow tract septum morphogenesis,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0033081,regulation of T cell differentiation in thymus,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0007143,female meiotic nuclear division,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:1901623,regulation of lymphocyte chemotaxis,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0060586,multicellular organismal-level iron ion homeostasis,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0045880,positive regulation of smoothened signaling pathway,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0010257,NADH dehydrogenase complex assembly,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:1902932,positive regulation of alcohol biosynthetic process,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0045939,negative regulation of steroid metabolic process,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0048745,smooth muscle tissue development,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0001773,myeloid dendritic cell activation,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0002520,immune system development,0.18792594670592794,False,156,27,2,11419
+GO:BP,GO:0002700,regulation of production of molecular mediator of immune response,0.18792594670592794,False,156,27,2,11419
+GO:BP,GO:0048596,embryonic camera-type eye morphogenesis,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0032981,mitochondrial respiratory chain complex I assembly,0.18792594670592794,False,23,27,1,11419
+GO:BP,GO:0036314,response to sterol,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0034377,plasma lipoprotein particle assembly,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0042744,hydrogen peroxide catabolic process,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0003171,atrioventricular valve development,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0003272,endocardial cushion formation,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0003416,endochondral bone growth,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0007051,spindle organization,0.18936130147273683,False,159,27,2,11419
+GO:BP,GO:0071168,protein localization to chromatin,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0035767,endothelial cell chemotaxis,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0090382,phagosome maturation,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0002285,lymphocyte activation involved in immune response,0.18936130147273683,False,161,27,2,11419
+GO:BP,GO:0042634,regulation of hair cycle,0.18936130147273683,False,24,27,1,11419
+GO:BP,GO:0061138,morphogenesis of a branching epithelium,0.18936130147273683,False,160,27,2,11419
+GO:BP,GO:0051897,positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.18936130147273683,False,161,27,2,11419
+GO:BP,GO:1902107,positive regulation of leukocyte differentiation,0.18990292440048118,False,162,27,2,11419
+GO:BP,GO:1903708,positive regulation of hemopoiesis,0.18990292440048118,False,162,27,2,11419
+GO:BP,GO:0033687,osteoblast proliferation,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0006516,glycoprotein catabolic process,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0006779,porphyrin-containing compound biosynthetic process,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0051216,cartilage development,0.19112666741513148,False,164,27,2,11419
+GO:BP,GO:0060284,regulation of cell development,0.19112666741513148,False,623,27,4,11419
+GO:BP,GO:0045191,regulation of isotype switching,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0061037,negative regulation of cartilage development,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0048522,positive regulation of cellular process,0.19112666741513148,False,4026,27,14,11419
+GO:BP,GO:0098815,modulation of excitatory postsynaptic potential,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0033014,tetrapyrrole biosynthetic process,0.19112666741513148,False,25,27,1,11419
+GO:BP,GO:0019674,NAD+ metabolic process,0.19112666741513148,False,25,27,1,11419
+REAC,REAC:R-HSA-6803157,Antimicrobial peptides,0.19212531096875876,False,40,27,1,11419
+REAC,REAC:R-HSA-6799198,Complex I biogenesis,0.19212531096875876,False,40,27,1,11419
+REAC,REAC:R-HSA-9839373,Signaling by TGFBR3,0.19212531096875876,False,39,27,1,11419
+REAC,REAC:R-HSA-195721,Signaling by WNT,0.19212531096875876,False,207,27,2,11419
+REAC,REAC:R-HSA-1912422,Pre-NOTCH Expression and Processing,0.19212531096875876,False,40,27,1,11419
+REAC,REAC:R-HSA-2173789,TGF-beta receptor signaling activates SMADs,0.19212531096875876,False,37,27,1,11419
+REAC,REAC:R-HSA-1638091,Heparan sulfate/heparin (HS-GAG) metabolism,0.19239840767660243,False,42,27,1,11419
+REAC,REAC:R-HSA-1643685,Disease,0.19239840767660243,False,1356,27,6,11419
+REAC,REAC:R-HSA-3906995,Diseases associated with O-glycosylation of proteins,0.19239840767660243,False,42,27,1,11419
+REAC,REAC:R-HSA-9675135,Diseases of DNA repair,0.192610169873501,False,43,27,1,11419
+REAC,REAC:R-HSA-8873719,RAB geranylgeranylation,0.192610169873501,False,44,27,1,11419
+REAC,REAC:R-HSA-936837,Ion transport by P-type ATPases,0.192610169873501,False,44,27,1,11419
+REAC,REAC:R-HSA-4086398,Ca2+ pathway,0.19403364438148743,False,45,27,1,11419
+GO:BP,GO:0065005,protein-lipid complex assembly,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0042098,T cell proliferation,0.1940753912625846,False,168,27,2,11419
+GO:BP,GO:0030155,regulation of cell adhesion,0.1940753912625846,False,632,27,4,11419
+GO:BP,GO:0046639,negative regulation of alpha-beta T cell differentiation,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0060348,bone development,0.1940753912625846,False,167,27,2,11419
+GO:BP,GO:0032438,melanosome organization,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0030517,negative regulation of axon extension,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0098868,bone growth,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0016266,protein O-linked glycosylation via N-acetyl-galactosamine,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0050820,positive regulation of coagulation,0.1940753912625846,False,26,27,1,11419
+GO:BP,GO:0051321,meiotic cell cycle,0.19410732128388164,False,169,27,2,11419
+GO:BP,GO:0001763,morphogenesis of a branching structure,0.19410732128388164,False,169,27,2,11419
+GO:BP,GO:0048588,developmental cell growth,0.1943100527608883,False,170,27,2,11419
+GO:BP,GO:0048753,pigment granule organization,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0050920,regulation of chemotaxis,0.1943100527608883,False,172,27,2,11419
+GO:BP,GO:0050931,pigment cell differentiation,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0045910,negative regulation of DNA recombination,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0071354,cellular response to interleukin-6,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0060055,angiogenesis involved in wound healing,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0032965,regulation of collagen biosynthetic process,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0002063,chondrocyte development,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0002714,positive regulation of B cell mediated immunity,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0002891,positive regulation of immunoglobulin mediated immune response,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0002507,tolerance induction,0.1943100527608883,False,27,27,1,11419
+GO:BP,GO:0044281,small molecule metabolic process,0.1943100527608883,False,1221,27,6,11419
+GO:BP,GO:0003081,regulation of systemic arterial blood pressure by renin-angiotensin,0.1943100527608883,False,27,27,1,11419
+REAC,REAC:R-HSA-5387390,Hh mutants abrogate ligand secretion,0.19943288800199696,False,47,27,1,11419
+GO:BP,GO:0097106,postsynaptic density organization,0.20040788189415218,False,28,27,1,11419
+GO:BP,GO:0045920,negative regulation of exocytosis,0.20040788189415218,False,28,27,1,11419
+GO:BP,GO:0007267,cell-cell signaling,0.20101244088955375,False,933,27,5,11419
+GO:BP,GO:0022407,regulation of cell-cell adhesion,0.20195148898210294,False,395,27,3,11419
+GO:BP,GO:0048705,skeletal system morphogenesis,0.20195148898210294,False,177,27,2,11419
+GO:BP,GO:0003382,epithelial cell morphogenesis,0.2029384349799771,False,29,27,1,11419
+GO:BP,GO:2000352,negative regulation of endothelial cell apoptotic process,0.2029384349799771,False,29,27,1,11419
+GO:BP,GO:0043243,positive regulation of protein-containing complex disassembly,0.2029384349799771,False,29,27,1,11419
+GO:BP,GO:0007140,male meiotic nuclear division,0.2029384349799771,False,29,27,1,11419
+GO:BP,GO:0048566,embryonic digestive tract development,0.2029384349799771,False,29,27,1,11419
+GO:BP,GO:0060560,developmental growth involved in morphogenesis,0.2029384349799771,False,179,27,2,11419
+GO:BP,GO:0001941,postsynaptic membrane organization,0.2029384349799771,False,29,27,1,11419
+GO:BP,GO:0006959,humoral immune response,0.2036033405964374,False,180,27,2,11419
+GO:BP,GO:0019222,regulation of metabolic process,0.2036033405964374,False,4112,27,14,11419
+GO:BP,GO:0002064,epithelial cell development,0.2036033405964374,False,180,27,2,11419
+REAC,REAC:0000000,REACTOME root term,0.20378268553589865,False,7393,27,21,11419
+GO:BP,GO:0060999,positive regulation of dendritic spine development,0.20577575874664242,False,30,27,1,11419
+GO:BP,GO:0045730,respiratory burst,0.20577575874664242,False,30,27,1,11419
+GO:BP,GO:0060317,cardiac epithelial to mesenchymal transition,0.20577575874664242,False,30,27,1,11419
+GO:BP,GO:0002440,production of molecular mediator of immune response,0.20577575874664242,False,182,27,2,11419
+GO:BP,GO:0035633,maintenance of blood-brain barrier,0.20577575874664242,False,30,27,1,11419
+GO:BP,GO:0035909,aorta morphogenesis,0.20577575874664242,False,30,27,1,11419
+REAC,REAC:R-HSA-5358346,Hedgehog ligand biogenesis,0.20581113416452365,False,50,27,1,11419
+REAC,REAC:R-HSA-6796648,TP53 Regulates Transcription of DNA Repair Genes,0.20693302803682656,False,51,27,1,11419
+GO:BP,GO:0050670,regulation of lymphocyte proliferation,0.20806935519712486,False,185,27,2,11419
+GO:BP,GO:0071548,response to dexamethasone,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0046677,response to antibiotic,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0034121,regulation of toll-like receptor signaling pathway,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0006974,DNA damage response,0.20806935519712486,False,670,27,4,11419
+GO:BP,GO:0071353,cellular response to interleukin-4,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0070741,response to interleukin-6,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0010712,regulation of collagen metabolic process,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0060323,head morphogenesis,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0048048,embryonic eye morphogenesis,0.20806935519712486,False,31,27,1,11419
+GO:BP,GO:0045773,positive regulation of axon extension,0.2121184584338441,False,32,27,1,11419
+GO:BP,GO:0031076,embryonic camera-type eye development,0.2121184584338441,False,32,27,1,11419
+GO:BP,GO:0010604,positive regulation of macromolecule metabolic process,0.2121184584338441,False,2282,27,9,11419
+GO:BP,GO:0032944,regulation of mononuclear cell proliferation,0.2121184584338441,False,189,27,2,11419
+GO:BP,GO:1902175,regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,0.2121184584338441,False,32,27,1,11419
+GO:BP,GO:0003180,aortic valve morphogenesis,0.2121184584338441,False,32,27,1,11419
+GO:BP,GO:0097305,response to alcohol,0.2126602939093541,False,190,27,2,11419
+GO:BP,GO:0048762,mesenchymal cell differentiation,0.2126602939093541,False,190,27,2,11419
+GO:BP,GO:0009653,anatomical structure morphogenesis,0.2126602939093541,False,1938,27,8,11419
+GO:BP,GO:0007423,sensory organ development,0.21391386402238619,False,418,27,3,11419
+GO:BP,GO:0048863,stem cell differentiation,0.21391386402238619,False,191,27,2,11419
+GO:BP,GO:0046640,regulation of alpha-beta T cell proliferation,0.2140198986670782,False,33,27,1,11419
+GO:BP,GO:0050832,defense response to fungus,0.2140198986670782,False,33,27,1,11419
+GO:BP,GO:0030201,heparan sulfate proteoglycan metabolic process,0.2140198986670782,False,33,27,1,11419
+GO:BP,GO:0043647,inositol phosphate metabolic process,0.2140198986670782,False,33,27,1,11419
+GO:BP,GO:0048701,embryonic cranial skeleton morphogenesis,0.2140198986670782,False,33,27,1,11419
+GO:BP,GO:1903131,mononuclear cell differentiation,0.21739635073045785,False,423,27,3,11419
+GO:BP,GO:0070670,response to interleukin-4,0.21858154037834038,False,34,27,1,11419
+GO:BP,GO:0060249,anatomical structure homeostasis,0.21858154037834038,False,196,27,2,11419
+GO:BP,GO:0006739,NADP+ metabolic process,0.21858154037834038,False,34,27,1,11419
+GO:BP,GO:0001894,tissue homeostasis,0.21858154037834038,False,196,27,2,11419
+GO:BP,GO:0001667,ameboidal-type cell migration,0.21858154037834038,False,196,27,2,11419
+GO:BP,GO:0006766,vitamin metabolic process,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0048247,lymphocyte chemotaxis,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0060412,ventricular septum morphogenesis,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0052547,regulation of peptidase activity,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0042554,superoxide anion generation,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0003203,endocardial cushion morphogenesis,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0006952,defense response,0.21871461813134968,False,1301,27,6,11419
+GO:BP,GO:0033993,response to lipid,0.21871461813134968,False,698,27,4,11419
+GO:BP,GO:0099084,postsynaptic specialization organization,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0021762,substantia nigra development,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0001754,eye photoreceptor cell differentiation,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0050919,negative chemotaxis,0.21871461813134968,False,35,27,1,11419
+GO:BP,GO:0046633,alpha-beta T cell proliferation,0.2205100956600529,False,36,27,1,11419
+GO:BP,GO:0050922,negative regulation of chemotaxis,0.2205100956600529,False,36,27,1,11419
+GO:BP,GO:0046636,negative regulation of alpha-beta T cell activation,0.2205100956600529,False,36,27,1,11419
+GO:BP,GO:0010721,negative regulation of cell development,0.2205100956600529,False,201,27,2,11419
+GO:BP,GO:0045332,phospholipid translocation,0.2205100956600529,False,36,27,1,11419
+GO:BP,GO:0007281,germ cell development,0.2205100956600529,False,200,27,2,11419
+GO:BP,GO:0042168,heme metabolic process,0.2205100956600529,False,36,27,1,11419
+GO:BP,GO:0008038,neuron recognition,0.2205100956600529,False,36,27,1,11419
+GO:BP,GO:0002699,positive regulation of immune effector process,0.2205100956600529,False,201,27,2,11419
+GO:BP,GO:0030182,neuron differentiation,0.2205100956600529,False,997,27,5,11419
+GO:BP,GO:0003176,aortic valve development,0.2234565278413856,False,37,27,1,11419
+GO:BP,GO:0031100,animal organ regeneration,0.2234565278413856,False,37,27,1,11419
+GO:BP,GO:0051489,regulation of filopodium assembly,0.2234565278413856,False,37,27,1,11419
+GO:BP,GO:0003007,heart morphogenesis,0.2234565278413856,False,204,27,2,11419
+GO:BP,GO:0085029,extracellular matrix assembly,0.2234565278413856,False,37,27,1,11419
+GO:BP,GO:0031175,neuron projection development,0.2234565278413856,False,710,27,4,11419
+GO:BP,GO:0060391,positive regulation of SMAD protein signal transduction,0.2234565278413856,False,37,27,1,11419
+GO:BP,GO:0006281,DNA repair,0.2265860682377928,False,443,27,3,11419
+GO:BP,GO:0045190,isotype switching,0.22714223226067834,False,38,27,1,11419
+GO:BP,GO:0002204,somatic recombination of immunoglobulin genes involved in immune response,0.22714223226067834,False,38,27,1,11419
+GO:BP,GO:0002208,somatic diversification of immunoglobulins involved in immune response,0.22714223226067834,False,38,27,1,11419
+GO:BP,GO:0001990,regulation of systemic arterial blood pressure by hormone,0.22714223226067834,False,38,27,1,11419
+GO:BP,GO:0050870,positive regulation of T cell activation,0.2277348483332291,False,214,27,2,11419
+GO:BP,GO:0030834,regulation of actin filament depolymerization,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0030335,positive regulation of cell migration,0.2277348483332291,False,453,27,3,11419
+GO:BP,GO:0045581,negative regulation of T cell differentiation,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0048562,embryonic organ morphogenesis,0.2277348483332291,False,212,27,2,11419
+GO:BP,GO:0060998,regulation of dendritic spine development,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0009583,detection of light stimulus,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0070663,regulation of leukocyte proliferation,0.2277348483332291,False,211,27,2,11419
+GO:BP,GO:0010171,body morphogenesis,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0042110,T cell activation,0.2277348483332291,False,453,27,3,11419
+GO:BP,GO:0007507,heart development,0.2277348483332291,False,453,27,3,11419
+GO:BP,GO:0032924,activin receptor signaling pathway,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0097035,regulation of membrane lipid distribution,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0097028,dendritic cell differentiation,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0007276,gamete generation,0.2277348483332291,False,446,27,3,11419
+GO:BP,GO:0032964,collagen biosynthetic process,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0032968,positive regulation of transcription elongation by RNA polymerase II,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0007166,cell surface receptor signaling pathway,0.2277348483332291,False,2015,27,8,11419
+GO:BP,GO:2000403,positive regulation of lymphocyte migration,0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:2000516,"positive regulation of CD4-positive, alpha-beta T cell activation",0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0060443,mammary gland morphogenesis,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0032330,regulation of chondrocyte differentiation,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0048598,embryonic morphogenesis,0.2277348483332291,False,452,27,3,11419
+GO:BP,GO:0000288,"nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay",0.2277348483332291,False,39,27,1,11419
+GO:BP,GO:0034204,lipid translocation,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0002381,immunoglobulin production involved in immunoglobulin-mediated immune response,0.2277348483332291,False,40,27,1,11419
+GO:BP,GO:0048546,digestive tract morphogenesis,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:0022412,cellular process involved in reproduction in multicellular organism,0.22916638697142036,False,216,27,2,11419
+GO:BP,GO:0050771,negative regulation of axonogenesis,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:0071385,cellular response to glucocorticoid stimulus,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:0006778,porphyrin-containing compound metabolic process,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:1902930,regulation of alcohol biosynthetic process,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:0140546,defense response to symbiont,0.22916638697142036,False,733,27,4,11419
+GO:BP,GO:0044238,primary metabolic process,0.22916638697142036,False,6389,27,19,11419
+GO:BP,GO:0002639,positive regulation of immunoglobulin production,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:1905314,semi-lunar valve development,0.22916638697142036,False,41,27,1,11419
+GO:BP,GO:0051896,regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.23170987795550146,False,219,27,2,11419
+GO:BP,GO:0009620,response to fungus,0.23170987795550146,False,42,27,1,11419
+GO:BP,GO:0002712,regulation of B cell mediated immunity,0.23170987795550146,False,42,27,1,11419
+GO:BP,GO:0002889,regulation of immunoglobulin mediated immune response,0.23170987795550146,False,42,27,1,11419
+GO:BP,GO:0061028,establishment of endothelial barrier,0.23170987795550146,False,42,27,1,11419
+GO:BP,GO:0030042,actin filament depolymerization,0.23170987795550146,False,42,27,1,11419
+GO:BP,GO:0000079,regulation of cyclin-dependent protein serine/threonine kinase activity,0.23170987795550146,False,42,27,1,11419
+GO:BP,GO:0098542,defense response to other organism,0.23172794325651272,False,743,27,4,11419
+GO:BP,GO:0048518,positive regulation of biological process,0.2320511639339663,False,4308,27,14,11419
+GO:BP,GO:0006890,"retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum",0.23348674981232206,False,43,27,1,11419
+GO:BP,GO:0048663,neuron fate commitment,0.23348674981232206,False,43,27,1,11419
+GO:BP,GO:0060042,retina morphogenesis in camera-type eye,0.23348674981232206,False,43,27,1,11419
+GO:BP,GO:0045815,transcription initiation-coupled chromatin remodeling,0.23348674981232206,False,43,27,1,11419
+GO:BP,GO:0048699,generation of neurons,0.23348674981232206,False,1052,27,5,11419
+GO:BP,GO:0001961,positive regulation of cytokine-mediated signaling pathway,0.23348674981232206,False,43,27,1,11419
+GO:BP,GO:0003044,regulation of systemic arterial blood pressure mediated by a chemical signal,0.23348674981232206,False,43,27,1,11419
+GO:BP,GO:2000147,positive regulation of cell motility,0.23385333630605237,False,469,27,3,11419
+REAC,REAC:R-HSA-373755,Semaphorin interactions,0.23417749624489406,False,59,27,1,11419
+GO:BP,GO:0010634,positive regulation of epithelial cell migration,0.23423471092725462,False,44,27,1,11419
+GO:BP,GO:0071827,plasma lipoprotein particle organization,0.23423471092725462,False,44,27,1,11419
+GO:BP,GO:0045596,negative regulation of cell differentiation,0.23423471092725462,False,474,27,3,11419
+GO:BP,GO:0051055,negative regulation of lipid biosynthetic process,0.23423471092725462,False,45,27,1,11419
+GO:BP,GO:0098813,nuclear chromosome segregation,0.23423471092725462,False,229,27,2,11419
+GO:BP,GO:0120035,regulation of plasma membrane bounded cell projection organization,0.23423471092725462,False,475,27,3,11419
+GO:BP,GO:0061448,connective tissue development,0.23423471092725462,False,226,27,2,11419
+GO:BP,GO:0071526,semaphorin-plexin signaling pathway,0.23423471092725462,False,44,27,1,11419
+GO:BP,GO:0045229,external encapsulating structure organization,0.23423471092725462,False,229,27,2,11419
+GO:BP,GO:0009617,response to bacterium,0.23423471092725462,False,476,27,3,11419
+GO:BP,GO:2001244,positive regulation of intrinsic apoptotic signaling pathway,0.23423471092725462,False,45,27,1,11419
+GO:BP,GO:0042733,embryonic digit morphogenesis,0.23423471092725462,False,44,27,1,11419
+GO:BP,GO:0060070,canonical Wnt signaling pathway,0.23423471092725462,False,226,27,2,11419
+GO:BP,GO:0045620,negative regulation of lymphocyte differentiation,0.23423471092725462,False,45,27,1,11419
+GO:BP,GO:0030334,regulation of cell migration,0.23423471092725462,False,753,27,4,11419
+GO:BP,GO:0030198,extracellular matrix organization,0.23423471092725462,False,228,27,2,11419
+GO:BP,GO:0032786,"positive regulation of DNA-templated transcription, elongation",0.23423471092725462,False,45,27,1,11419
+GO:BP,GO:0046148,pigment biosynthetic process,0.23423471092725462,False,45,27,1,11419
+GO:BP,GO:0033059,cellular pigmentation,0.23423471092725462,False,45,27,1,11419
+GO:BP,GO:0016447,somatic recombination of immunoglobulin gene segments,0.23423471092725462,False,44,27,1,11419
+GO:BP,GO:0003197,endocardial cushion development,0.23423471092725462,False,44,27,1,11419
+GO:BP,GO:2000026,regulation of multicellular organismal development,0.23423471092725462,False,1062,27,5,11419
+GO:BP,GO:0006302,double-strand break repair,0.23423471092725462,False,227,27,2,11419
+GO:BP,GO:0043062,extracellular structure organization,0.23423471092725462,False,228,27,2,11419
+GO:BP,GO:0141137,"positive regulation of gene expression, epigenetic",0.23622397207470075,False,46,27,1,11419
+GO:BP,GO:0040017,positive regulation of locomotion,0.23622397207470075,False,481,27,3,11419
+GO:BP,GO:0071825,protein-lipid complex organization,0.23622397207470075,False,46,27,1,11419
+GO:BP,GO:0006968,cellular defense response,0.23622397207470075,False,46,27,1,11419
+GO:BP,GO:0010718,positive regulation of epithelial to mesenchymal transition,0.23622397207470075,False,46,27,1,11419
+GO:BP,GO:0046530,photoreceptor cell differentiation,0.23622397207470075,False,46,27,1,11419
+GO:BP,GO:0046847,filopodium assembly,0.23622397207470075,False,46,27,1,11419
+GO:BP,GO:0046651,lymphocyte proliferation,0.23637466643820798,False,232,27,2,11419
+GO:BP,GO:0060425,lung morphogenesis,0.2365891584783534,False,47,27,1,11419
+GO:BP,GO:0008631,intrinsic apoptotic signaling pathway in response to oxidative stress,0.2365891584783534,False,47,27,1,11419
+GO:BP,GO:0031344,regulation of cell projection organization,0.2365891584783534,False,484,27,3,11419
+GO:BP,GO:0060760,positive regulation of response to cytokine stimulus,0.2365891584783534,False,47,27,1,11419
+GO:BP,GO:0001755,neural crest cell migration,0.2365891584783534,False,47,27,1,11419
+GO:BP,GO:0062012,regulation of small molecule metabolic process,0.2365891584783534,False,234,27,2,11419
+GO:BP,GO:0060135,maternal process involved in female pregnancy,0.2365891584783534,False,47,27,1,11419
+GO:BP,GO:0141124,intracellular signaling cassette,0.2365891584783534,False,1402,27,6,11419
+GO:BP,GO:0009059,macromolecule biosynthetic process,0.2365891584783534,False,4366,27,14,11419
+GO:BP,GO:1903039,positive regulation of leukocyte cell-cell adhesion,0.2365891584783534,False,234,27,2,11419
+GO:BP,GO:0002366,leukocyte activation involved in immune response,0.2365891584783534,False,233,27,2,11419
+GO:BP,GO:0002263,cell activation involved in immune response,0.23765591664226132,False,236,27,2,11419
+GO:BP,GO:0046173,polyol biosynthetic process,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0033108,mitochondrial respiratory chain complex assembly,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0141061,disruption of cell in another organism,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0060485,mesenchyme development,0.23765591664226132,False,237,27,2,11419
+GO:BP,GO:0030111,regulation of Wnt signaling pathway,0.23765591664226132,False,236,27,2,11419
+GO:BP,GO:0031640,killing of cells of another organism,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0001541,ovarian follicle development,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0033013,tetrapyrrole metabolic process,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0001756,somitogenesis,0.23765591664226132,False,48,27,1,11419
+GO:BP,GO:0032943,mononuclear cell proliferation,0.23801784195493775,False,238,27,2,11419
+GO:BP,GO:0032103,positive regulation of response to external stimulus,0.23801784195493775,False,491,27,3,11419
+GO:BP,GO:0045765,regulation of angiogenesis,0.23832047561125064,False,239,27,2,11419
+GO:BP,GO:0006303,double-strand break repair via nonhomologous end joining,0.23832047561125064,False,49,27,1,11419
+GO:BP,GO:0072132,mesenchyme morphogenesis,0.23832047561125064,False,49,27,1,11419
+GO:BP,GO:0071384,cellular response to corticosteroid stimulus,0.23832047561125064,False,49,27,1,11419
+GO:BP,GO:0090497,mesenchymal cell migration,0.23832047561125064,False,49,27,1,11419
+GO:BP,GO:0043207,response to external biotic stimulus,0.23832047561125064,False,1092,27,5,11419
+GO:BP,GO:0016445,somatic diversification of immunoglobulins,0.23832047561125064,False,49,27,1,11419
+GO:BP,GO:0051707,response to other organism,0.23832047561125064,False,1089,27,5,11419
+GO:BP,GO:2000351,regulation of endothelial cell apoptotic process,0.23832047561125064,False,49,27,1,11419
+GO:BP,GO:0072698,protein localization to microtubule cytoskeleton,0.2420312459573183,False,50,27,1,11419
+GO:BP,GO:2000145,regulation of cell motility,0.2420312459573183,False,788,27,4,11419
+GO:BP,GO:0002521,leukocyte differentiation,0.2420312459573183,False,499,27,3,11419
+REAC,REAC:R-HSA-5173105,O-linked glycosylation,0.24211690617598614,False,62,27,1,11419
+REAC,REAC:R-HSA-373080,Class B/2 (Secretin family receptors),0.24263672174966627,False,63,27,1,11419
+GO:BP,GO:0021700,developmental maturation,0.2432516749812609,False,244,27,2,11419
+REAC,REAC:R-HSA-1430728,Metabolism,0.2436138524449624,False,1525,27,6,11419
+REAC,REAC:R-HSA-8876198,RAB GEFs exchange GTP for GDP on RABs,0.2436138524449624,False,65,27,1,11419
+REAC,REAC:R-HSA-5632684,Hedgehog 'on' state,0.2440727267473924,False,66,27,1,11419
+GO:BP,GO:0009880,embryonic pattern specification,0.24491030485120513,False,51,27,1,11419
+GO:BP,GO:0045453,bone resorption,0.24491030485120513,False,51,27,1,11419
+GO:BP,GO:0031113,regulation of microtubule polymerization,0.24491030485120513,False,51,27,1,11419
+GO:BP,GO:1901342,regulation of vasculature development,0.24509760630655866,False,246,27,2,11419
+GO:BP,GO:0008202,steroid metabolic process,0.24540965067737297,False,248,27,2,11419
+GO:BP,GO:0003179,heart valve morphogenesis,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0097193,intrinsic apoptotic signaling pathway,0.24540965067737297,False,247,27,2,11419
+GO:BP,GO:0048857,neural nucleus development,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0002562,somatic diversification of immune receptors via germline recombination within a single locus,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0043954,cellular component maintenance,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0090303,positive regulation of wound healing,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0016444,somatic cell DNA recombination,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0043009,chordate embryonic development,0.24540965067737297,False,505,27,3,11419
+GO:BP,GO:0141060,disruption of anatomical structure in another organism,0.24540965067737297,False,52,27,1,11419
+GO:BP,GO:0043491,phosphatidylinositol 3-kinase/protein kinase B signal transduction,0.24603368737209685,False,249,27,2,11419
+GO:BP,GO:0048589,developmental growth,0.24623845077103348,False,509,27,3,11419
+GO:BP,GO:0032757,positive regulation of interleukin-8 production,0.24623845077103348,False,53,27,1,11419
+GO:BP,GO:0007155,cell adhesion,0.24623845077103348,False,1117,27,5,11419
+GO:BP,GO:1904888,cranial skeletal system development,0.24623845077103348,False,53,27,1,11419
+GO:BP,GO:0035904,aorta development,0.24623845077103348,False,53,27,1,11419
+GO:BP,GO:0045911,positive regulation of DNA recombination,0.24623845077103348,False,53,27,1,11419
+GO:BP,GO:0034113,heterotypic cell-cell adhesion,0.24623845077103348,False,53,27,1,11419
+GO:BP,GO:0072577,endothelial cell apoptotic process,0.24623845077103348,False,53,27,1,11419
+GO:BP,GO:0042446,hormone biosynthetic process,0.24623845077103348,False,53,27,1,11419
+REAC,REAC:R-HSA-5689603,UCH proteinases,0.24788573315250273,False,68,27,1,11419
+GO:BP,GO:0009607,response to biotic stimulus,0.24791000964858095,False,1121,27,5,11419
+GO:BP,GO:0051668,localization within membrane,0.24848149538335673,False,514,27,3,11419
+GO:BP,GO:0045595,regulation of cell differentiation,0.24860170850186256,False,1123,27,5,11419
+GO:BP,GO:0045661,regulation of myoblast differentiation,0.24876734576445808,False,54,27,1,11419
+GO:BP,GO:0060326,cell chemotaxis,0.24876734576445808,False,254,27,2,11419
+GO:BP,GO:0044380,protein localization to cytoskeleton,0.24876734576445808,False,54,27,1,11419
+REAC,REAC:R-HSA-9837999,Mitochondrial protein degradation,0.24895974872693788,False,71,27,1,11419
+REAC,REAC:R-HSA-195253,Degradation of beta-catenin by the destruction complex,0.24895974872693788,False,71,27,1,11419
+REAC,REAC:R-HSA-428157,Sphingolipid metabolism,0.24895974872693788,False,70,27,1,11419
+REAC,REAC:R-HSA-9013423,RAC3 GTPase cycle,0.2492866281759498,False,72,27,1,11419
+GO:BP,GO:0003407,neural retina development,0.25025744426557067,False,55,27,1,11419
+GO:BP,GO:2000379,positive regulation of reactive oxygen species metabolic process,0.25025744426557067,False,55,27,1,11419
+GO:BP,GO:0040012,regulation of locomotion,0.25025744426557067,False,814,27,4,11419
+GO:BP,GO:0007420,brain development,0.25025744426557067,False,518,27,3,11419
+GO:BP,GO:0048645,animal organ formation,0.25025744426557067,False,55,27,1,11419
+GO:BP,GO:0009792,embryo development ending in birth or egg hatching,0.25025744426557067,False,518,27,3,11419
+GO:BP,GO:0060562,epithelial tube morphogenesis,0.25025744426557067,False,256,27,2,11419
+GO:BP,GO:0061035,regulation of cartilage development,0.2534440575520657,False,56,27,1,11419
+GO:BP,GO:0050918,positive chemotaxis,0.2534440575520657,False,56,27,1,11419
+GO:BP,GO:0002637,regulation of immunoglobulin production,0.2534440575520657,False,56,27,1,11419
+GO:BP,GO:0032729,positive regulation of type II interferon production,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0032101,regulation of response to external stimulus,0.25373909197009803,False,823,27,4,11419
+GO:BP,GO:0001885,endothelial cell development,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0008589,regulation of smoothened signaling pathway,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0032722,positive regulation of chemokine production,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0042130,negative regulation of T cell proliferation,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0016043,cellular component organization,0.25373909197009803,False,4478,27,14,11419
+GO:BP,GO:0060390,regulation of SMAD protein signal transduction,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:1903036,positive regulation of response to wounding,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0040013,negative regulation of locomotion,0.25373909197009803,False,261,27,2,11419
+GO:BP,GO:0043112,receptor metabolic process,0.25373909197009803,False,57,27,1,11419
+GO:BP,GO:0043010,camera-type eye development,0.25497440992742676,False,263,27,2,11419
+GO:BP,GO:0008283,cell population proliferation,0.25497440992742676,False,1479,27,6,11419
+GO:BP,GO:0021536,diencephalon development,0.25541536705878254,False,58,27,1,11419
+GO:BP,GO:0003281,ventricular septum development,0.25541536705878254,False,58,27,1,11419
+GO:BP,GO:0071806,protein transmembrane transport,0.25541536705878254,False,58,27,1,11419
+GO:BP,GO:0045862,positive regulation of proteolysis,0.25541536705878254,False,58,27,1,11419
+GO:BP,GO:0002200,somatic diversification of immune receptors,0.25541536705878254,False,58,27,1,11419
+GO:BP,GO:0007005,mitochondrion organization,0.25601452348672854,False,265,27,2,11419
+KEGG,KEGG:04520,Adherens junction,0.2566022624414758,False,81,27,2,11419
+GO:BP,GO:0031016,pancreas development,0.2567000761961021,False,59,27,1,11419
+GO:BP,GO:0042157,lipoprotein metabolic process,0.2567000761961021,False,59,27,1,11419
+GO:BP,GO:0050772,positive regulation of axonogenesis,0.2567000761961021,False,59,27,1,11419
+GO:BP,GO:0010632,regulation of epithelial cell migration,0.2567000761961021,False,59,27,1,11419
+GO:BP,GO:0006801,superoxide metabolic process,0.2567000761961021,False,59,27,1,11419
+GO:BP,GO:0003208,cardiac ventricle morphogenesis,0.2567000761961021,False,59,27,1,11419
+GO:BP,GO:2000401,regulation of lymphocyte migration,0.2567000761961021,False,59,27,1,11419
+KEGG,KEGG:04933,AGE-RAGE signaling pathway in diabetic complications,0.2573708495937672,False,96,27,2,11419
+KEGG,KEGG:04390,Hippo signaling pathway,0.2573708495937672,False,126,27,2,11419
+KEGG,KEGG:04310,Wnt signaling pathway,0.2573708495937672,False,139,27,2,11419
+KEGG,KEGG:04380,Osteoclast differentiation,0.2573708495937672,False,119,27,2,11419
+KEGG,KEGG:00531,Glycosaminoglycan degradation,0.2573708495937672,False,16,27,1,11419
+KEGG,KEGG:01240,Biosynthesis of cofactors,0.2573708495937672,False,106,27,2,11419
+KEGG,KEGG:05225,Hepatocellular carcinoma,0.2573708495937672,False,140,27,2,11419
+GO:BP,GO:0006066,alcohol metabolic process,0.2579112009516246,False,268,27,2,11419
+REAC,REAC:R-HSA-9856651,MITF-M-dependent gene expression,0.2589907671288605,False,76,27,1,11419
+GO:BP,GO:0045913,positive regulation of carbohydrate metabolic process,0.25969785689406705,False,60,27,1,11419
+GO:BP,GO:0050871,positive regulation of B cell activation,0.25969785689406705,False,60,27,1,11419
+GO:BP,GO:0070661,leukocyte proliferation,0.25998391331760684,False,270,27,2,11419
+GO:BP,GO:0050810,regulation of steroid biosynthetic process,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:0030193,regulation of blood coagulation,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:0097061,dendritic spine organization,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:0061157,mRNA destabilization,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:0032456,endocytic recycling,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:2000736,regulation of stem cell differentiation,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:0060411,cardiac septum morphogenesis,0.2608992823307737,False,61,27,1,11419
+GO:BP,GO:0031346,positive regulation of cell projection organization,0.2627135250677712,False,275,27,2,11419
+GO:BP,GO:0043648,dicarboxylic acid metabolic process,0.2627135250677712,False,62,27,1,11419
+GO:BP,GO:0042147,"retrograde transport, endosome to Golgi",0.2627135250677712,False,62,27,1,11419
+GO:BP,GO:0002088,lens development in camera-type eye,0.2627135250677712,False,62,27,1,11419
+GO:BP,GO:0010467,gene expression,0.2627135250677712,False,4132,27,13,11419
+GO:BP,GO:0002224,toll-like receptor signaling pathway,0.2627135250677712,False,62,27,1,11419
+GO:BP,GO:0050678,regulation of epithelial cell proliferation,0.2627135250677712,False,274,27,2,11419
+GO:BP,GO:0016477,cell migration,0.2627135250677712,False,1173,27,5,11419
+GO:BP,GO:1902903,regulation of supramolecular fiber organization,0.2627135250677712,False,275,27,2,11419
+GO:BP,GO:0042440,pigment metabolic process,0.26424123425756646,False,63,27,1,11419
+GO:BP,GO:0003170,heart valve development,0.26424123425756646,False,63,27,1,11419
+GO:BP,GO:0050779,RNA destabilization,0.26424123425756646,False,63,27,1,11419
+GO:BP,GO:1900046,regulation of hemostasis,0.26424123425756646,False,63,27,1,11419
+GO:BP,GO:0010562,positive regulation of phosphorus metabolic process,0.2646687482897228,False,278,27,2,11419
+GO:BP,GO:0045937,positive regulation of phosphate metabolic process,0.2646687482897228,False,278,27,2,11419
+GO:BP,GO:0022409,positive regulation of cell-cell adhesion,0.26498974044256124,False,279,27,2,11419
+GO:BP,GO:0043170,macromolecule metabolic process,0.26498974044256124,False,5794,27,17,11419
+GO:BP,GO:0032637,interleukin-8 production,0.26498974044256124,False,64,27,1,11419
+GO:BP,GO:0032677,regulation of interleukin-8 production,0.26498974044256124,False,64,27,1,11419
+GO:BP,GO:0097006,regulation of plasma lipoprotein particle levels,0.26498974044256124,False,64,27,1,11419
+GO:BP,GO:0048844,artery morphogenesis,0.26498974044256124,False,64,27,1,11419
+GO:BP,GO:0140962,multicellular organismal-level chemical homeostasis,0.26498974044256124,False,64,27,1,11419
+KEGG,KEGG:04060,Cytokine-cytokine receptor interaction,0.2658705975362212,False,214,27,2,11419
+KEGG,KEGG:05200,Pathways in cancer,0.2658705975362212,False,447,27,3,11419
+KEGG,KEGG:05320,Autoimmune thyroid disease,0.2658705975362212,False,41,27,1,11419
+KEGG,KEGG:05205,Proteoglycans in cancer,0.2658705975362212,False,172,27,2,11419
+KEGG,KEGG:05216,Thyroid cancer,0.2658705975362212,False,33,27,1,11419
+KEGG,KEGG:03460,Fanconi anemia pathway,0.2658705975362212,False,40,27,1,11419
+KEGG,KEGG:03430,Mismatch repair,0.2658705975362212,False,22,27,1,11419
+KEGG,KEGG:00760,Nicotinate and nicotinamide metabolism,0.2658705975362212,False,27,27,1,11419
+KEGG,KEGG:00350,Tyrosine metabolism,0.2658705975362212,False,30,27,1,11419
+KEGG,KEGG:00860,Porphyrin metabolism,0.2658705975362212,False,28,27,1,11419
+KEGG,KEGG:00600,Sphingolipid metabolism,0.2658705975362212,False,38,27,1,11419
+KEGG,KEGG:00514,Other types of O-glycan biosynthesis,0.2658705975362212,False,30,27,1,11419
+GO:BP,GO:0048609,multicellular organismal reproductive process,0.2665978067618447,False,556,27,3,11419
+KEGG,KEGG:04340,Hedgehog signaling pathway,0.2666213810301259,False,43,27,1,11419
+GO:BP,GO:0034243,regulation of transcription elongation by RNA polymerase II,0.26674339757838367,False,65,27,1,11419
+GO:BP,GO:0034502,protein localization to chromosome,0.26674339757838367,False,65,27,1,11419
+GO:BP,GO:2000514,"regulation of CD4-positive, alpha-beta T cell activation",0.26674339757838367,False,65,27,1,11419
+GO:BP,GO:0061014,positive regulation of mRNA catabolic process,0.26674339757838367,False,65,27,1,11419
+GO:BP,GO:0030516,regulation of axon extension,0.26674339757838367,False,65,27,1,11419
+REAC,REAC:R-HSA-170834,Signaling by TGF-beta Receptor Complex,0.26836357045263687,False,80,27,1,11419
+GO:BP,GO:0014032,neural crest cell development,0.26984698926151157,False,66,27,1,11419
+GO:BP,GO:1904019,epithelial cell apoptotic process,0.26984698926151157,False,66,27,1,11419
+KEGG,KEGG:04517,IgSF CAM signaling,0.27152652367660024,False,231,27,2,11419
+KEGG,KEGG:05217,Basal cell carcinoma,0.273191472726133,False,48,27,1,11419
+REAC,REAC:R-HSA-8878159,Transcriptional regulation by RUNX3,0.2744185933652985,False,83,27,1,11419
+GO:BP,GO:0060429,epithelium development,0.27609346953438957,False,876,27,4,11419
+GO:BP,GO:0048661,positive regulation of smooth muscle cell proliferation,0.2763351948333747,False,68,27,1,11419
+GO:BP,GO:0050818,regulation of coagulation,0.2763351948333747,False,68,27,1,11419
+GO:BP,GO:0030901,midbrain development,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0001938,positive regulation of endothelial cell proliferation,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0048864,stem cell development,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0003151,outflow tract morphogenesis,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0050672,negative regulation of lymphocyte proliferation,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0098869,cellular oxidant detoxification,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0043255,regulation of carbohydrate biosynthetic process,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0060021,roof of mouth development,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0035282,segmentation,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0106027,neuron projection organization,0.27653224079365785,False,69,27,1,11419
+GO:BP,GO:0001654,eye development,0.27733377085139227,False,293,27,2,11419
+GO:BP,GO:0008152,metabolic process,0.2773955233726788,False,7157,27,20,11419
+GO:BP,GO:0015914,phospholipid transport,0.2781100051326793,False,70,27,1,11419
+GO:BP,GO:0008593,regulation of Notch signaling pathway,0.2781100051326793,False,70,27,1,11419
+GO:BP,GO:0071902,positive regulation of protein serine/threonine kinase activity,0.2781100051326793,False,70,27,1,11419
+GO:BP,GO:0048704,embryonic skeletal system morphogenesis,0.2781100051326793,False,70,27,1,11419
+GO:BP,GO:0071840,cellular component organization or biogenesis,0.2791820916134473,False,4611,27,14,11419
+GO:BP,GO:1901879,regulation of protein depolymerization,0.2793066308339668,False,71,27,1,11419
+GO:BP,GO:0032945,negative regulation of mononuclear cell proliferation,0.2793066308339668,False,71,27,1,11419
+GO:BP,GO:0150063,visual system development,0.2793066308339668,False,296,27,2,11419
+GO:BP,GO:0030148,sphingolipid biosynthetic process,0.2793066308339668,False,71,27,1,11419
+GO:BP,GO:0001942,hair follicle development,0.2793066308339668,False,71,27,1,11419
+GO:BP,GO:0045833,negative regulation of lipid metabolic process,0.2793066308339668,False,71,27,1,11419
+GO:BP,GO:0060996,dendritic spine development,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0002312,B cell activation involved in immune response,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0032784,regulation of DNA-templated transcription elongation,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0001570,vasculogenesis,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0046849,bone remodeling,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0014033,neural crest cell differentiation,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0060395,SMAD protein signal transduction,0.2804742847896542,False,72,27,1,11419
+GO:BP,GO:0030101,natural killer cell activation,0.2820271499155275,False,73,27,1,11419
+GO:BP,GO:0072091,regulation of stem cell proliferation,0.2820271499155275,False,73,27,1,11419
+GO:BP,GO:0022405,hair cycle process,0.2820271499155275,False,73,27,1,11419
+GO:BP,GO:0048880,sensory system development,0.2820271499155275,False,302,27,2,11419
+GO:BP,GO:1903037,regulation of leukocyte cell-cell adhesion,0.2820271499155275,False,301,27,2,11419
+GO:BP,GO:0022404,molting cycle process,0.2820271499155275,False,73,27,1,11419
+GO:BP,GO:0044419,biological process involved in interspecies interaction between organisms,0.28298191675276657,False,1233,27,5,11419
+REAC,REAC:R-HSA-9007101,Rab regulation of trafficking,0.283224344654472,False,87,27,1,11419
+GO:BP,GO:0060079,excitatory postsynaptic potential,0.2848045749185053,False,74,27,1,11419
+GO:BP,GO:0006869,lipid transport,0.2858800274399432,False,306,27,2,11419
+GO:BP,GO:0001708,cell fate specification,0.2858800274399432,False,75,27,1,11419
+GO:BP,GO:0031644,regulation of nervous system process,0.2858800274399432,False,75,27,1,11419
+GO:BP,GO:0000280,nuclear division,0.2858800274399432,False,306,27,2,11419
+GO:BP,GO:0046330,positive regulation of JNK cascade,0.2858800274399432,False,75,27,1,11419
+GO:BP,GO:0048640,negative regulation of developmental growth,0.2858800274399432,False,75,27,1,11419
+GO:BP,GO:0033077,T cell differentiation in thymus,0.2858800274399432,False,75,27,1,11419
+GO:BP,GO:0032602,chemokine production,0.28692939048004085,False,76,27,1,11419
+GO:BP,GO:0032642,regulation of chemokine production,0.28692939048004085,False,76,27,1,11419
+GO:BP,GO:0003006,developmental process involved in reproduction,0.28692939048004085,False,595,27,3,11419
+GO:BP,GO:0002697,regulation of immune effector process,0.28692939048004085,False,309,27,2,11419
+GO:BP,GO:0022008,neurogenesis,0.28692939048004085,False,1244,27,5,11419
+GO:BP,GO:0042127,regulation of cell population proliferation,0.28692939048004085,False,1245,27,5,11419
+GO:BP,GO:0006163,purine nucleotide metabolic process,0.28692939048004085,False,309,27,2,11419
+GO:BP,GO:0001701,in utero embryonic development,0.28751956764118075,False,310,27,2,11419
+GO:BP,GO:0140694,membraneless organelle assembly,0.28751956764118075,False,310,27,2,11419
+GO:BP,GO:0032755,positive regulation of interleukin-6 production,0.28898913935425363,False,77,27,1,11419
+GO:BP,GO:0019218,regulation of steroid metabolic process,0.28898913935425363,False,77,27,1,11419
+GO:BP,GO:0046785,microtubule polymerization,0.2903284779323876,False,78,27,1,11419
+GO:BP,GO:0061387,regulation of extent of cell growth,0.2903284779323876,False,78,27,1,11419
+GO:BP,GO:0031110,regulation of microtubule polymerization or depolymerization,0.2903284779323876,False,78,27,1,11419
+GO:BP,GO:0050886,endocrine process,0.2903284779323876,False,78,27,1,11419
+GO:BP,GO:0051310,metaphase chromosome alignment,0.2903284779323876,False,78,27,1,11419
+GO:BP,GO:0032355,response to estradiol,0.2903284779323876,False,78,27,1,11419
+GO:BP,GO:0009410,response to xenobiotic stimulus,0.2916575649202683,False,315,27,2,11419
+REAC,REAC:R-HSA-196849,Metabolism of water-soluble vitamins and cofactors,0.2917317236549105,False,91,27,1,11419
+GO:BP,GO:0099565,"chemical synaptic transmission, postsynaptic",0.29198620864389613,False,79,27,1,11419
+GO:BP,GO:0042102,positive regulation of T cell proliferation,0.29198620864389613,False,79,27,1,11419
+GO:BP,GO:0070664,negative regulation of leukocyte proliferation,0.29198620864389613,False,79,27,1,11419
+GO:BP,GO:0090263,positive regulation of canonical Wnt signaling pathway,0.29198620864389613,False,79,27,1,11419
+KEGG,KEGG:01100,Metabolic pathways,0.2920612090077002,False,1122,27,5,11419
+GO:BP,GO:0002377,immunoglobulin production,0.29327171703154437,False,80,27,1,11419
+GO:BP,GO:0003073,regulation of systemic arterial blood pressure,0.29327171703154437,False,80,27,1,11419
+GO:BP,GO:0044085,cellular component biogenesis,0.29327171703154437,False,2341,27,8,11419
+GO:BP,GO:0062014,negative regulation of small molecule metabolic process,0.29327171703154437,False,80,27,1,11419
+GO:BP,GO:0019953,sexual reproduction,0.29327171703154437,False,610,27,3,11419
+GO:BP,GO:0010631,epithelial cell migration,0.29327171703154437,False,80,27,1,11419
+REAC,REAC:R-HSA-611105,Respiratory electron transport,0.2942861046141161,False,93,27,1,11419
+GO:BP,GO:0045445,myoblast differentiation,0.2954413161180881,False,81,27,1,11419
+GO:BP,GO:0007283,spermatogenesis,0.2954413161180881,False,321,27,2,11419
+GO:BP,GO:0090132,epithelium migration,0.2954413161180881,False,81,27,1,11419
+GO:BP,GO:0010876,lipid localization,0.2954413161180881,False,321,27,2,11419
+GO:BP,GO:0010975,regulation of neuron projection development,0.296525481646369,False,322,27,2,11419
+GO:BP,GO:0048870,cell motility,0.2971437005425334,False,1275,27,5,11419
+GO:BP,GO:0042633,hair cycle,0.2971437005425334,False,82,27,1,11419
+GO:BP,GO:0042303,molting cycle,0.2971437005425334,False,82,27,1,11419
+GO:BP,GO:0006493,protein O-linked glycosylation,0.2986953590223131,False,83,27,1,11419
+GO:BP,GO:0010717,regulation of epithelial to mesenchymal transition,0.2986953590223131,False,83,27,1,11419
+GO:BP,GO:0045471,response to ethanol,0.2986953590223131,False,83,27,1,11419
+GO:BP,GO:0071677,positive regulation of mononuclear cell migration,0.2986953590223131,False,83,27,1,11419
+GO:BP,GO:0002690,positive regulation of leukocyte chemotaxis,0.2986953590223131,False,83,27,1,11419
+GO:BP,GO:0008630,intrinsic apoptotic signaling pathway in response to DNA damage,0.30022170214857813,False,84,27,1,11419
+GO:BP,GO:0032649,regulation of type II interferon production,0.30022170214857813,False,84,27,1,11419
+GO:BP,GO:0048232,male gamete generation,0.30022170214857813,False,327,27,2,11419
+GO:BP,GO:1901655,cellular response to ketone,0.30022170214857813,False,84,27,1,11419
+GO:BP,GO:0008585,female gonad development,0.30022170214857813,False,84,27,1,11419
+GO:BP,GO:0032609,type II interferon production,0.3017231807539802,False,85,27,1,11419
+GO:BP,GO:0072526,pyridine-containing compound catabolic process,0.3017231807539802,False,85,27,1,11419
+GO:BP,GO:0009581,detection of external stimulus,0.3017231807539802,False,85,27,1,11419
+GO:BP,GO:0019751,polyol metabolic process,0.3017231807539802,False,85,27,1,11419
+GO:BP,GO:0120034,positive regulation of plasma membrane bounded cell projection assembly,0.3017231807539802,False,85,27,1,11419
+REAC,REAC:R-HSA-8878166,Transcriptional regulation by RUNX2,0.3019077330437922,False,98,27,1,11419
+REAC,REAC:R-HSA-1630316,Glycosaminoglycan metabolism,0.3019077330437922,False,97,27,1,11419
+GO:BP,GO:0040011,locomotion,0.30281188289950595,False,952,27,4,11419
+GO:BP,GO:0072657,protein localization to membrane,0.3028556896568569,False,332,27,2,11419
+GO:BP,GO:0043085,positive regulation of catalytic activity,0.3028556896568569,False,332,27,2,11419
+GO:BP,GO:0018958,phenol-containing compound metabolic process,0.3028556896568569,False,86,27,1,11419
+GO:BP,GO:0090130,tissue migration,0.3028556896568569,False,86,27,1,11419
+GO:BP,GO:0046545,development of primary female sexual characteristics,0.3028556896568569,False,86,27,1,11419
+GO:BP,GO:0090100,positive regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.30499831728338117,False,87,27,1,11419
+GO:BP,GO:0009582,detection of abiotic stimulus,0.30499831728338117,False,87,27,1,11419
+GO:BP,GO:1902106,negative regulation of leukocyte differentiation,0.30499831728338117,False,87,27,1,11419
+GO:BP,GO:0007159,leukocyte cell-cell adhesion,0.30522890861109064,False,335,27,2,11419
+GO:BP,GO:0051053,negative regulation of DNA metabolic process,0.3059522743451991,False,88,27,1,11419
+GO:BP,GO:0010927,cellular component assembly involved in morphogenesis,0.3059522743451991,False,88,27,1,11419
+GO:BP,GO:0050673,epithelial cell proliferation,0.3059522743451991,False,337,27,2,11419
+GO:BP,GO:1990748,cellular detoxification,0.3059522743451991,False,88,27,1,11419
+GO:BP,GO:0032989,cellular anatomical entity morphogenesis,0.3059522743451991,False,88,27,1,11419
+GO:BP,GO:0032963,collagen metabolic process,0.3059522743451991,False,88,27,1,11419
+KEGG,KEGG:04918,Thyroid hormone synthesis,0.30676784428246556,False,59,27,1,11419
+KEGG,KEGG:05221,Acute myeloid leukemia,0.30676784428246556,False,61,27,1,11419
+GO:BP,GO:0072676,lymphocyte migration,0.30748911243524363,False,89,27,1,11419
+GO:BP,GO:1903313,positive regulation of mRNA metabolic process,0.30748911243524363,False,89,27,1,11419
+GO:BP,GO:0051261,protein depolymerization,0.30748911243524363,False,89,27,1,11419
+GO:BP,GO:0048285,organelle fission,0.30748911243524363,False,339,27,2,11419
+GO:BP,GO:0000956,nuclear-transcribed mRNA catabolic process,0.3085294888146381,False,90,27,1,11419
+GO:BP,GO:0003279,cardiac septum development,0.3085294888146381,False,90,27,1,11419
+GO:BP,GO:0048675,axon extension,0.3085294888146381,False,90,27,1,11419
+GO:BP,GO:0010595,positive regulation of endothelial cell migration,0.3085294888146381,False,90,27,1,11419
+GO:BP,GO:0050000,chromosome localization,0.3085294888146381,False,90,27,1,11419
+GO:BP,GO:0048871,multicellular organismal-level homeostasis,0.3085294888146381,False,643,27,3,11419
+GO:BP,GO:0070887,cellular response to chemical stimulus,0.3089412487201855,False,1670,27,6,11419
+REAC,REAC:R-HSA-9730414,MITF-M-regulated melanocyte development,0.3090603878768826,False,102,27,1,11419
+REAC,REAC:R-HSA-3781865,Diseases of glycosylation,0.3090603878768826,False,103,27,1,11419
+GO:BP,GO:0030326,embryonic limb morphogenesis,0.3092077512020441,False,91,27,1,11419
+GO:BP,GO:0051384,response to glucocorticoid,0.3092077512020441,False,91,27,1,11419
+GO:BP,GO:1903707,negative regulation of hemopoiesis,0.3092077512020441,False,91,27,1,11419
+GO:BP,GO:0035113,embryonic appendage morphogenesis,0.3092077512020441,False,91,27,1,11419
+GO:BP,GO:0016482,cytosolic transport,0.3092077512020441,False,91,27,1,11419
+GO:BP,GO:0060840,artery development,0.3092077512020441,False,91,27,1,11419
+GO:BP,GO:0033036,macromolecule localization,0.31097441421461364,False,2043,27,7,11419
+GO:BP,GO:0098773,skin epidermis development,0.3112307162913649,False,92,27,1,11419
+GO:BP,GO:0022612,gland morphogenesis,0.3112307162913649,False,92,27,1,11419
+GO:BP,GO:0048732,gland development,0.31219813758249315,False,347,27,2,11419
+GO:BP,GO:0030099,myeloid cell differentiation,0.31219813758249315,False,347,27,2,11419
+GO:BP,GO:0060078,regulation of postsynaptic membrane potential,0.31289072039911087,False,93,27,1,11419
+GO:BP,GO:0000018,regulation of DNA recombination,0.31289072039911087,False,93,27,1,11419
+KEGG,KEGG:01524,Platinum drug resistance,0.3143179224827193,False,66,27,1,11419
+KEGG,KEGG:05212,Pancreatic cancer,0.3143179224827193,False,72,27,1,11419
+KEGG,KEGG:05412,Arrhythmogenic right ventricular cardiomyopathy,0.3143179224827193,False,70,27,1,11419
+KEGG,KEGG:05220,Chronic myeloid leukemia,0.3143179224827193,False,71,27,1,11419
+GO:BP,GO:0002824,positive regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,0.3152160963169774,False,94,27,1,11419
+GO:BP,GO:0019882,antigen processing and presentation,0.3152160963169774,False,94,27,1,11419
+GO:BP,GO:0009117,nucleotide metabolic process,0.31594109521777985,False,351,27,2,11419
+GO:BP,GO:0097237,cellular response to toxic substance,0.3171789370699329,False,95,27,1,11419
+GO:BP,GO:0002708,positive regulation of lymphocyte mediated immunity,0.3171789370699329,False,95,27,1,11419
+GO:BP,GO:0050868,negative regulation of T cell activation,0.31981590134272636,False,96,27,1,11419
+KEGG,KEGG:04061,Viral protein interaction with cytokine and cytokine receptor,0.320592151637771,False,76,27,1,11419
+GO:BP,GO:0051093,negative regulation of developmental process,0.32112202451510374,False,664,27,3,11419
+GO:BP,GO:1901135,carbohydrate derivative metabolic process,0.32112202451510374,False,664,27,3,11419
+GO:BP,GO:0043244,regulation of protein-containing complex disassembly,0.3217416212011202,False,97,27,1,11419
+GO:BP,GO:0070925,organelle assembly,0.32235603105110167,False,666,27,3,11419
+GO:BP,GO:0045597,positive regulation of cell differentiation,0.32553546763845786,False,670,27,3,11419
+GO:BP,GO:0050768,negative regulation of neurogenesis,0.32553546763845786,False,99,27,1,11419
+GO:BP,GO:0002821,positive regulation of adaptive immune response,0.32553546763845786,False,99,27,1,11419
+GO:BP,GO:0016064,immunoglobulin mediated immune response,0.32553546763845786,False,99,27,1,11419
+GO:BP,GO:0045446,endothelial cell differentiation,0.32553546763845786,False,99,27,1,11419
+GO:BP,GO:0006935,chemotaxis,0.3263533649623976,False,362,27,2,11419
+GO:BP,GO:0042330,taxis,0.326353500640784,False,363,27,2,11419
+GO:BP,GO:0003231,cardiac ventricle development,0.326353500640784,False,100,27,1,11419
+GO:BP,GO:0007605,sensory perception of sound,0.326353500640784,False,100,27,1,11419
+GO:BP,GO:0009987,cellular process,0.326353500640784,False,10228,27,26,11419
+GO:BP,GO:0035710,"CD4-positive, alpha-beta T cell activation",0.326353500640784,False,100,27,1,11419
+GO:BP,GO:0050864,regulation of B cell activation,0.32820080307592825,False,101,27,1,11419
+GO:BP,GO:0001889,liver development,0.32820080307592825,False,101,27,1,11419
+GO:BP,GO:0019724,B cell mediated immunity,0.32820080307592825,False,101,27,1,11419
+GO:BP,GO:0016049,cell growth,0.32858684697566504,False,366,27,2,11419
+GO:BP,GO:0002040,sprouting angiogenesis,0.3300297064669745,False,102,27,1,11419
+GO:BP,GO:0048593,camera-type eye morphogenesis,0.3300297064669745,False,102,27,1,11419
+KEGG,KEGG:04916,Melanogenesis,0.3300831578443951,False,81,27,1,11419
+GO:BP,GO:0001936,regulation of endothelial cell proliferation,0.3307891640565254,False,103,27,1,11419
+GO:BP,GO:0046660,female sex differentiation,0.3307891640565254,False,103,27,1,11419
+GO:BP,GO:0065008,regulation of biological quality,0.3307891640565254,False,2102,27,7,11419
+GO:BP,GO:0008064,regulation of actin polymerization or depolymerization,0.3307891640565254,False,103,27,1,11419
+GO:BP,GO:0099175,regulation of postsynapse organization,0.3307891640565254,False,103,27,1,11419
+GO:BP,GO:0002009,morphogenesis of an epithelium,0.3307891640565254,False,369,27,2,11419
+GO:BP,GO:0051961,negative regulation of nervous system development,0.3325794955222511,False,104,27,1,11419
+GO:BP,GO:0061008,hepaticobiliary system development,0.3325794955222511,False,104,27,1,11419
+GO:BP,GO:0008037,cell recognition,0.3325794955222511,False,104,27,1,11419
+GO:BP,GO:0033554,cellular response to stress,0.33362456126975465,False,1377,27,5,11419
+REAC,REAC:R-HSA-3858494,Beta-catenin independent WNT signaling,0.3336658621832005,False,114,27,1,11419
+REAC,REAC:R-HSA-5358351,Signaling by Hedgehog,0.3336658621832005,False,115,27,1,11419
+GO:BP,GO:0030832,regulation of actin filament length,0.3347032716835333,False,105,27,1,11419
+GO:BP,GO:0098876,vesicle-mediated transport to the plasma membrane,0.3361070436461163,False,106,27,1,11419
+GO:BP,GO:1903038,negative regulation of leukocyte cell-cell adhesion,0.3361070436461163,False,106,27,1,11419
+GO:BP,GO:0031960,response to corticosteroid,0.3361070436461163,False,106,27,1,11419
+GO:BP,GO:0002688,regulation of leukocyte chemotaxis,0.3361070436461163,False,106,27,1,11419
+REAC,REAC:R-HSA-983712,Ion channel transport,0.3378334411523672,False,118,27,1,11419
+GO:BP,GO:1903531,negative regulation of secretion by cell,0.3381972772864533,False,107,27,1,11419
+GO:BP,GO:0003206,cardiac chamber morphogenesis,0.3381972772864533,False,107,27,1,11419
+GO:BP,GO:0002250,adaptive immune response,0.33886078263796776,False,379,27,2,11419
+GO:BP,GO:0031109,microtubule polymerization or depolymerization,0.339564970897478,False,108,27,1,11419
+GO:BP,GO:0007009,plasma membrane organization,0.339564970897478,False,108,27,1,11419
+GO:BP,GO:0098754,detoxification,0.339564970897478,False,108,27,1,11419
+KEGG,KEGG:04350,TGF-beta signaling pathway,0.33980333010280583,False,97,27,1,11419
+KEGG,KEGG:04659,Th17 cell differentiation,0.33980333010280583,False,96,27,1,11419
+KEGG,KEGG:04650,Natural killer cell mediated cytotoxicity,0.33980333010280583,False,97,27,1,11419
+KEGG,KEGG:05215,Prostate cancer,0.33980333010280583,False,95,27,1,11419
+KEGG,KEGG:05142,Chagas disease,0.33980333010280583,False,91,27,1,11419
+GO:BP,GO:0050794,regulation of cellular process,0.34038689741189954,False,7017,27,19,11419
+GO:BP,GO:0062013,positive regulation of small molecule metabolic process,0.34091498799388537,False,109,27,1,11419
+GO:BP,GO:0048565,digestive tract development,0.34091498799388537,False,109,27,1,11419
+GO:BP,GO:0030177,positive regulation of Wnt signaling pathway,0.34091498799388537,False,109,27,1,11419
+GO:BP,GO:0035107,appendage morphogenesis,0.34102911848861933,False,110,27,1,11419
+GO:BP,GO:0006139,nucleobase-containing compound metabolic process,0.34102911848861933,False,3695,27,11,11419
+GO:BP,GO:0035108,limb morphogenesis,0.34102911848861933,False,110,27,1,11419
+GO:BP,GO:0098609,cell-cell adhesion,0.34102911848861933,False,702,27,3,11419
+GO:BP,GO:0048660,regulation of smooth muscle cell proliferation,0.34102911848861933,False,110,27,1,11419
+GO:BP,GO:0006259,DNA metabolic process,0.34102911848861933,False,704,27,3,11419
+GO:BP,GO:0050770,regulation of axonogenesis,0.34102911848861933,False,110,27,1,11419
+GO:BP,GO:0015748,organophosphate ester transport,0.34102911848861933,False,110,27,1,11419
+GO:BP,GO:0120036,plasma membrane bounded cell projection organization,0.34102911848861933,False,1042,27,4,11419
+GO:BP,GO:0050671,positive regulation of lymphocyte proliferation,0.34180825690799943,False,111,27,1,11419
+GO:BP,GO:0040007,growth,0.34180825690799943,False,706,27,3,11419
+GO:BP,GO:0002705,positive regulation of leukocyte mediated immunity,0.34180825690799943,False,111,27,1,11419
+GO:BP,GO:0030509,BMP signaling pathway,0.34180825690799943,False,111,27,1,11419
+GO:BP,GO:0000902,cell morphogenesis,0.3427355729043568,False,708,27,3,11419
+GO:BP,GO:2000377,regulation of reactive oxygen species metabolic process,0.34310716099310706,False,112,27,1,11419
+GO:BP,GO:0048659,smooth muscle cell proliferation,0.34310716099310706,False,112,27,1,11419
+GO:BP,GO:2001235,positive regulation of apoptotic signaling pathway,0.34310716099310706,False,112,27,1,11419
+GO:BP,GO:0046328,regulation of JNK cascade,0.3436929374092472,False,113,27,1,11419
+GO:BP,GO:0032635,interleukin-6 production,0.3436929374092472,False,113,27,1,11419
+GO:BP,GO:0032946,positive regulation of mononuclear cell proliferation,0.3436929374092472,False,113,27,1,11419
+GO:BP,GO:0032675,regulation of interleukin-6 production,0.3436929374092472,False,113,27,1,11419
+GO:BP,GO:0008203,cholesterol metabolic process,0.3436929374092472,False,113,27,1,11419
+GO:BP,GO:0061041,regulation of wound healing,0.3436929374092472,False,113,27,1,11419
+GO:BP,GO:0045934,negative regulation of nucleobase-containing compound metabolic process,0.34460132083505324,False,1057,27,4,11419
+GO:BP,GO:0030879,mammary gland development,0.3449589370407527,False,114,27,1,11419
+GO:BP,GO:0046165,alcohol biosynthetic process,0.3449589370407527,False,114,27,1,11419
+GO:BP,GO:0009411,response to UV,0.3449589370407527,False,114,27,1,11419
+GO:BP,GO:0051276,chromosome organization,0.34865580602211044,False,396,27,2,11419
+GO:BP,GO:0030218,erythrocyte differentiation,0.34953758543593366,False,116,27,1,11419
+GO:BP,GO:0006665,sphingolipid metabolic process,0.349836827374695,False,117,27,1,11419
+GO:BP,GO:0030178,negative regulation of Wnt signaling pathway,0.349836827374695,False,117,27,1,11419
+GO:BP,GO:0030307,positive regulation of cell growth,0.349836827374695,False,117,27,1,11419
+GO:BP,GO:0022607,cellular component assembly,0.349836827374695,False,2173,27,7,11419
+GO:BP,GO:0050954,sensory perception of mechanical stimulus,0.349836827374695,False,117,27,1,11419
+GO:BP,GO:0051493,regulation of cytoskeleton organization,0.349836827374695,False,398,27,2,11419
+GO:BP,GO:0003158,endothelium development,0.349836827374695,False,117,27,1,11419
+GO:BP,GO:0030030,cell projection organization,0.3499421214801135,False,1070,27,4,11419
+GO:BP,GO:0006915,apoptotic process,0.34997978216497994,False,1430,27,5,11419
+GO:BP,GO:0035556,intracellular signal transduction,0.34997978216497994,False,2175,27,7,11419
+GO:BP,GO:0060341,regulation of cellular localization,0.3502097870238911,False,401,27,2,11419
+GO:BP,GO:0072521,purine-containing compound metabolic process,0.3502097870238911,False,401,27,2,11419
+GO:BP,GO:0055123,digestive system development,0.3502097870238911,False,118,27,1,11419
+REAC,REAC:R-HSA-202733,Cell surface interactions at the vascular wall,0.3516266928865341,False,125,27,1,11419
+GO:BP,GO:0016125,sterol metabolic process,0.35244127163278544,False,119,27,1,11419
+GO:BP,GO:0001501,skeletal system development,0.3528805898717103,False,404,27,2,11419
+GO:BP,GO:0045785,positive regulation of cell adhesion,0.3528805898717103,False,404,27,2,11419
+GO:BP,GO:0009888,tissue development,0.35376087449035076,False,1440,27,5,11419
+GO:BP,GO:0043488,regulation of mRNA stability,0.35376087449035076,False,120,27,1,11419
+KEGG,KEGG:05224,Breast cancer,0.35379228061076323,False,122,27,1,11419
+KEGG,KEGG:04936,Alcoholic liver disease,0.35379228061076323,False,121,27,1,11419
+KEGG,KEGG:04382,Cornified envelope formation,0.35379228061076323,False,126,27,1,11419
+KEGG,KEGG:04934,Cushing syndrome,0.35379228061076323,False,119,27,1,11419
+KEGG,KEGG:04926,Relaxin signaling pathway,0.35379228061076323,False,105,27,1,11419
+KEGG,KEGG:04068,FoxO signaling pathway,0.35379228061076323,False,115,27,1,11419
+KEGG,KEGG:04550,Signaling pathways regulating pluripotency of stem cells,0.35379228061076323,False,117,27,1,11419
+KEGG,KEGG:00000,KEGG root term,0.35379228061076323,False,5740,27,16,11419
+KEGG,KEGG:05418,Fluid shear stress and atherosclerosis,0.35379228061076323,False,128,27,1,11419
+GO:BP,GO:0071675,regulation of mononuclear cell migration,0.35476780006271164,False,121,27,1,11419
+GO:BP,GO:0071772,response to BMP,0.35476780006271164,False,121,27,1,11419
+GO:BP,GO:0051048,negative regulation of secretion,0.35476780006271164,False,121,27,1,11419
+GO:BP,GO:0071773,cellular response to BMP stimulus,0.35476780006271164,False,121,27,1,11419
+GO:BP,GO:0051250,negative regulation of lymphocyte activation,0.35621915015096567,False,122,27,1,11419
+GO:BP,GO:0019538,protein metabolic process,0.35621915015096567,False,2971,27,9,11419
+GO:BP,GO:1902531,regulation of intracellular signal transduction,0.35621915015096567,False,1447,27,5,11419
+GO:BP,GO:0006164,purine nucleotide biosynthetic process,0.35621915015096567,False,122,27,1,11419
+GO:BP,GO:0042552,myelination,0.3566867665764639,False,123,27,1,11419
+GO:BP,GO:0001935,endothelial cell proliferation,0.3566867665764639,False,123,27,1,11419
+GO:BP,GO:1902652,secondary alcohol metabolic process,0.3566867665764639,False,123,27,1,11419
+GO:BP,GO:0060041,retina development in camera-type eye,0.3566867665764639,False,123,27,1,11419
+GO:BP,GO:0006367,transcription initiation at RNA polymerase II promoter,0.3566867665764639,False,123,27,1,11419
+GO:BP,GO:0007417,central nervous system development,0.3577110942190384,False,742,27,3,11419
+GO:BP,GO:0007272,ensheathment of neurons,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0008366,axon ensheathment,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0034101,erythrocyte homeostasis,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0048639,positive regulation of developmental growth,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:1905475,regulation of protein localization to membrane,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0051345,positive regulation of hydrolase activity,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0031099,regeneration,0.3582033378474945,False,124,27,1,11419
+GO:BP,GO:0050658,RNA transport,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0050657,nucleic acid transport,0.3582033378474945,False,125,27,1,11419
+GO:BP,GO:0065007,biological regulation,0.3587144978790261,False,7558,27,20,11419
+GO:BP,GO:0043487,regulation of RNA stability,0.35997958400667707,False,126,27,1,11419
+GO:BP,GO:0005975,carbohydrate metabolic process,0.36058476309883547,False,418,27,2,11419
+GO:BP,GO:0070665,positive regulation of leukocyte proliferation,0.3610490058785884,False,127,27,1,11419
+GO:BP,GO:1990138,neuron projection extension,0.3610490058785884,False,127,27,1,11419
+GO:BP,GO:0048592,eye morphogenesis,0.3610490058785884,False,127,27,1,11419
+REAC,REAC:R-HSA-9006936,Signaling by TGFB family members,0.3613251040022651,False,133,27,1,11419
+REAC,REAC:R-HSA-9675108,Nervous system development,0.3613251040022651,False,430,27,2,11419
+REAC,REAC:R-HSA-9658195,Leishmania infection,0.3613251040022651,False,135,27,1,11419
+REAC,REAC:R-HSA-9824443,Parasitic Infection Pathways,0.3613251040022651,False,135,27,1,11419
+GO:BP,GO:0012501,programmed cell death,0.3615756180504496,False,1468,27,5,11419
+GO:BP,GO:0080090,regulation of primary metabolic process,0.36178649280057956,False,3395,27,10,11419
+REAC,REAC:R-HSA-9013149,RAC1 GTPase cycle,0.3624285771537642,False,137,27,1,11419
+GO:BP,GO:0051236,establishment of RNA localization,0.3624511376452851,False,128,27,1,11419
+GO:BP,GO:0008219,cell death,0.36312311164860933,False,1472,27,5,11419
+GO:BP,GO:0006575,modified amino acid metabolic process,0.36349279824817526,False,129,27,1,11419
+GO:BP,GO:0071453,cellular response to oxygen levels,0.36349279824817526,False,129,27,1,11419
+GO:BP,GO:0030162,regulation of proteolysis,0.36349279824817526,False,129,27,1,11419
+GO:BP,GO:0035264,multicellular organism growth,0.3645209845097343,False,130,27,1,11419
+GO:BP,GO:0035265,organ growth,0.3645209845097343,False,130,27,1,11419
+GO:BP,GO:0019637,organophosphate metabolic process,0.3645209845097343,False,759,27,3,11419
+GO:BP,GO:0001959,regulation of cytokine-mediated signaling pathway,0.3645209845097343,False,130,27,1,11419
+KEGG,KEGG:04218,Cellular senescence,0.36518621084068975,False,136,27,1,11419
+GO:BP,GO:0006694,steroid biosynthetic process,0.36622882064944307,False,131,27,1,11419
+GO:BP,GO:0002687,positive regulation of leukocyte migration,0.36622882064944307,False,131,27,1,11419
+GO:BP,GO:0001837,epithelial to mesenchymal transition,0.3668833826326437,False,132,27,1,11419
+GO:BP,GO:0062207,regulation of pattern recognition receptor signaling pathway,0.3668833826326437,False,132,27,1,11419
+GO:BP,GO:0070507,regulation of microtubule cytoskeleton organization,0.3668833826326437,False,132,27,1,11419
+GO:BP,GO:0008154,actin polymerization or depolymerization,0.3668833826326437,False,132,27,1,11419
+GO:BP,GO:0090407,organophosphate biosynthetic process,0.3668833826326437,False,429,27,2,11419
+KEGG,KEGG:04360,Axon guidance,0.3673140548041398,False,147,27,1,11419
+KEGG,KEGG:05415,Diabetic cardiomyopathy,0.3673140548041398,False,150,27,1,11419
+KEGG,KEGG:05202,Transcriptional misregulation in cancer,0.3673140548041398,False,150,27,1,11419
+KEGG,KEGG:05161,Hepatitis B,0.3673140548041398,False,141,27,1,11419
+GO:BP,GO:0045860,positive regulation of protein kinase activity,0.3675263371047736,False,133,27,1,11419
+GO:BP,GO:0006109,regulation of carbohydrate metabolic process,0.3675263371047736,False,133,27,1,11419
+GO:BP,GO:0061013,regulation of mRNA catabolic process,0.3675263371047736,False,133,27,1,11419
+GO:BP,GO:2001242,regulation of intrinsic apoptotic signaling pathway,0.3675263371047736,False,133,27,1,11419
+GO:BP,GO:0017157,regulation of exocytosis,0.3675263371047736,False,133,27,1,11419
+REAC,REAC:R-HSA-157118,Signaling by NOTCH,0.367919808815008,False,141,27,1,11419
+KEGG,KEGG:04062,Chemokine signaling pathway,0.36865212833021616,False,154,27,1,11419
+GO:BP,GO:0000724,double-strand break repair via homologous recombination,0.3691929793319268,False,134,27,1,11419
+GO:BP,GO:0044093,positive regulation of molecular function,0.3691929793319268,False,433,27,2,11419
+GO:BP,GO:0060173,limb development,0.3708479684181543,False,135,27,1,11419
+GO:BP,GO:0048736,appendage development,0.3708479684181543,False,135,27,1,11419
+GO:BP,GO:0006351,DNA-templated transcription,0.3710674644727868,False,2256,27,7,11419
+GO:BP,GO:0046890,regulation of lipid biosynthetic process,0.3721439083222202,False,136,27,1,11419
+GO:BP,GO:0000725,recombinational repair,0.3721439083222202,False,136,27,1,11419
+GO:BP,GO:1902905,positive regulation of supramolecular fiber organization,0.3727337940542514,False,137,27,1,11419
+GO:BP,GO:0048839,inner ear development,0.3727337940542514,False,137,27,1,11419
+GO:BP,GO:0060759,regulation of response to cytokine stimulus,0.3727337940542514,False,137,27,1,11419
+GO:BP,GO:0030308,negative regulation of cell growth,0.3727337940542514,False,137,27,1,11419
+GO:BP,GO:0048469,cell maturation,0.3727337940542514,False,137,27,1,11419
+KEGG,KEGG:05208,Chemical carcinogenesis - reactive oxygen species,0.3728619919024217,False,163,27,1,11419
+KEGG,KEGG:05167,Kaposi sarcoma-associated herpesvirus infection,0.3728619919024217,False,160,27,1,11419
+GO:BP,GO:1903034,regulation of response to wounding,0.37435085304802906,False,138,27,1,11419
+GO:BP,GO:0003205,cardiac chamber development,0.37435085304802906,False,138,27,1,11419
+REAC,REAC:R-HSA-196854,Metabolism of vitamins and cofactors,0.3762288291002716,False,148,27,1,11419
+REAC,REAC:R-HSA-162582,Signal Transduction,0.3762288291002716,False,1922,27,6,11419
+REAC,REAC:R-HSA-212436,Generic Transcription Pathway,0.3762890422668204,False,815,27,3,11419
+REAC,REAC:R-HSA-1428517,Aerobic respiration and respiratory electron transport,0.3762890422668204,False,151,27,1,11419
+GO:BP,GO:0048523,negative regulation of cellular process,0.37729590752351344,False,3456,27,10,11419
+GO:BP,GO:0002695,negative regulation of leukocyte activation,0.3782496884265479,False,140,27,1,11419
+GO:BP,GO:0008361,regulation of cell size,0.37913456876579743,False,141,27,1,11419
+GO:BP,GO:0044283,small molecule biosynthetic process,0.37913456876579743,False,446,27,2,11419
+GO:BP,GO:0016051,carbohydrate biosynthetic process,0.37913456876579743,False,141,27,1,11419
+GO:BP,GO:0033674,positive regulation of kinase activity,0.37913456876579743,False,141,27,1,11419
+GO:BP,GO:0002706,regulation of lymphocyte mediated immunity,0.38105745822099785,False,142,27,1,11419
+GO:BP,GO:0071900,regulation of protein serine/threonine kinase activity,0.38226823083552963,False,143,27,1,11419
+GO:BP,GO:0048771,tissue remodeling,0.38226823083552963,False,143,27,1,11419
+GO:BP,GO:0010594,regulation of endothelial cell migration,0.38226823083552963,False,143,27,1,11419
+GO:BP,GO:0000226,microtubule cytoskeleton organization,0.3836415130289528,False,452,27,2,11419
+GO:BP,GO:0032271,regulation of protein polymerization,0.38381863517791603,False,144,27,1,11419
+GO:BP,GO:0009165,nucleotide biosynthetic process,0.38571107601772137,False,145,27,1,11419
+GO:BP,GO:0051640,organelle localization,0.386101108152574,False,455,27,2,11419
+GO:BP,GO:0048729,tissue morphogenesis,0.3869177902432521,False,456,27,2,11419
+GO:BP,GO:0048812,neuron projection morphogenesis,0.38773287830442976,False,457,27,2,11419
+GO:BP,GO:0051495,positive regulation of cytoskeleton organization,0.38875938191956594,False,147,27,1,11419
+GO:BP,GO:0040008,regulation of growth,0.38935826643060867,False,459,27,2,11419
+GO:BP,GO:0006753,nucleoside phosphate metabolic process,0.39482686950864687,False,464,27,2,11419
+GO:BP,GO:0006352,DNA-templated transcription initiation,0.39580421955399997,False,151,27,1,11419
+GO:BP,GO:0002822,regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,0.39580421955399997,False,151,27,1,11419
+GO:BP,GO:0007565,female pregnancy,0.39580421955399997,False,151,27,1,11419
+GO:BP,GO:0071396,cellular response to lipid,0.3968732600221517,False,467,27,2,11419
+GO:BP,GO:0002262,myeloid cell homeostasis,0.3972724523558053,False,152,27,1,11419
+GO:BP,GO:0120032,regulation of plasma membrane bounded cell projection assembly,0.39909150391908704,False,153,27,1,11419
+GO:BP,GO:0009952,anterior/posterior pattern specification,0.4005397596836737,False,154,27,1,11419
+GO:BP,GO:0060491,regulation of cell projection assembly,0.4005397596836737,False,154,27,1,11419
+GO:BP,GO:0120039,plasma membrane bounded cell projection morphogenesis,0.4020037403894775,False,473,27,2,11419
+GO:BP,GO:0008217,regulation of blood pressure,0.4034056547274783,False,156,27,1,11419
+GO:BP,GO:0007254,JNK cascade,0.4034056547274783,False,156,27,1,11419
+GO:BP,GO:0001906,cell killing,0.4034056547274783,False,156,27,1,11419
+GO:BP,GO:0051252,regulation of RNA metabolic process,0.4035979845335354,False,2344,27,7,11419
+GO:BP,GO:0055086,nucleobase-containing small molecule metabolic process,0.4036395622261362,False,476,27,2,11419
+GO:BP,GO:0051650,establishment of vesicle localization,0.4037342152135846,False,157,27,1,11419
+GO:BP,GO:0030324,lung development,0.4037342152135846,False,157,27,1,11419
+GO:BP,GO:0043583,ear development,0.4037342152135846,False,157,27,1,11419
+KEGG,KEGG:05417,Lipid and atherosclerosis,0.40441084183312,False,184,27,1,11419
+GO:BP,GO:0048858,cell projection morphogenesis,0.40447914876035773,False,478,27,2,11419
+GO:BP,GO:0050789,regulation of biological process,0.4045363127329087,False,7295,27,19,11419
+GO:BP,GO:0050866,negative regulation of cell activation,0.4061731263362599,False,159,27,1,11419
+GO:BP,GO:0006796,phosphate-containing compound metabolic process,0.4061731263362599,False,1580,27,5,11419
+GO:BP,GO:0006403,RNA localization,0.4061731263362599,False,159,27,1,11419
+GO:BP,GO:0006793,phosphorus metabolic process,0.4061850524162393,False,1582,27,5,11419
+GO:BP,GO:0009628,response to abiotic stimulus,0.4061850524162393,False,835,27,3,11419
+GO:BP,GO:0097190,apoptotic signaling pathway,0.4061850524162393,False,482,27,2,11419
+GO:BP,GO:0051130,positive regulation of cellular component organization,0.4061850524162393,False,836,27,3,11419
+GO:BP,GO:0030323,respiratory tube development,0.40784582177446743,False,161,27,1,11419
+GO:BP,GO:0016485,protein processing,0.40784582177446743,False,161,27,1,11419
+GO:BP,GO:0033002,muscle cell proliferation,0.40784582177446743,False,161,27,1,11419
+GO:BP,GO:0006996,organelle organization,0.40861097608435404,False,2365,27,7,11419
+KEGG,KEGG:05166,Human T-cell leukemia virus 1 infection,0.4094594396413577,False,193,27,1,11419
+KEGG,KEGG:04144,Endocytosis,0.4094594396413577,False,195,27,1,11419
+GO:BP,GO:1901654,response to ketone,0.41129208688874097,False,163,27,1,11419
+GO:BP,GO:0002819,regulation of adaptive immune response,0.4130034321524159,False,164,27,1,11419
+GO:BP,GO:0008150,biological_process,0.4143406123320356,False,10460,27,26,11419
+GO:BP,GO:0007179,transforming growth factor beta receptor signaling pathway,0.4143406123320356,False,165,27,1,11419
+GO:BP,GO:0044703,multi-organism reproductive process,0.41566830918403663,False,166,27,1,11419
+GO:BP,GO:0071383,cellular response to steroid hormone stimulus,0.41566830918403663,False,166,27,1,11419
+KEGG,KEGG:05132,Salmonella infection,0.4157127119914648,False,203,27,1,11419
+GO:BP,GO:0071222,cellular response to lipopolysaccharide,0.4169865833674859,False,167,27,1,11419
+GO:BP,GO:0007411,axon guidance,0.4169865833674859,False,167,27,1,11419
+GO:BP,GO:0008406,gonad development,0.4179282470722471,False,168,27,1,11419
+GO:BP,GO:0097485,neuron projection guidance,0.4179282470722471,False,168,27,1,11419
+GO:BP,GO:0099173,postsynapse organization,0.4179282470722471,False,168,27,1,11419
+GO:BP,GO:0002252,immune effector process,0.418291527668534,False,498,27,2,11419
+GO:BP,GO:0045137,development of primary sexual characteristics,0.4205172410296147,False,170,27,1,11419
+GO:BP,GO:0044706,multi-multicellular organism process,0.4205172410296147,False,170,27,1,11419
+GO:BP,GO:0015931,nucleobase-containing compound transport,0.4205172410296147,False,170,27,1,11419
+GO:BP,GO:0009612,response to mechanical stimulus,0.4214298854338844,False,171,27,1,11419
+GO:BP,GO:0051648,vesicle localization,0.4214298854338844,False,171,27,1,11419
+GO:BP,GO:0016358,dendrite development,0.4214298854338844,False,171,27,1,11419
+GO:BP,GO:0016054,organic acid catabolic process,0.42241917859328026,False,172,27,1,11419
+GO:BP,GO:0033043,regulation of organelle organization,0.42241917859328026,False,866,27,3,11419
+GO:BP,GO:0046395,carboxylic acid catabolic process,0.42241917859328026,False,172,27,1,11419
+GO:BP,GO:0043123,positive regulation of canonical NF-kappaB signal transduction,0.4239630816288675,False,173,27,1,11419
+GO:BP,GO:0009101,glycoprotein biosynthetic process,0.4252161636416252,False,174,27,1,11419
+GO:BP,GO:0071219,cellular response to molecule of bacterial origin,0.4252161636416252,False,174,27,1,11419
+REAC,REAC:R-HSA-1640170,Cell Cycle,0.42584747428339403,False,515,27,2,11419
+GO:BP,GO:0060541,respiratory system development,0.4264603110443832,False,175,27,1,11419
+GO:BP,GO:0051174,regulation of phosphorus metabolic process,0.4264603110443832,False,510,27,2,11419
+GO:BP,GO:0048519,negative regulation of biological process,0.4269676807602265,False,3623,27,10,11419
+GO:BP,GO:0072522,purine-containing compound biosynthetic process,0.42769558040093586,False,176,27,1,11419
+GO:BP,GO:0008610,lipid biosynthetic process,0.4285662575700939,False,513,27,2,11419
+GO:BP,GO:0040029,epigenetic regulation of gene expression,0.4289220278625942,False,177,27,1,11419
+GO:BP,GO:0071674,mononuclear cell migration,0.4317202116894417,False,179,27,1,11419
+GO:BP,GO:1901700,response to oxygen-containing compound,0.4317202116894417,False,1260,27,4,11419
+GO:BP,GO:0019318,hexose metabolic process,0.4317202116894417,False,179,27,1,11419
+GO:BP,GO:0043933,protein-containing complex organization,0.4330089781750676,False,1263,27,4,11419
+GO:BP,GO:0045926,negative regulation of growth,0.4330089781750676,False,180,27,1,11419
+REAC,REAC:R-HSA-5668914,Diseases of metabolism,0.43401774980320357,False,184,27,1,11419
+GO:BP,GO:0006402,mRNA catabolic process,0.4344859664977979,False,181,27,1,11419
+GO:BP,GO:0060828,regulation of canonical Wnt signaling pathway,0.43604384926017625,False,182,27,1,11419
+GO:BP,GO:0098916,anterograde trans-synaptic signaling,0.43678021611372403,False,524,27,2,11419
+GO:BP,GO:0007268,chemical synaptic transmission,0.43678021611372403,False,524,27,2,11419
+GO:BP,GO:0001649,osteoblast differentiation,0.4368452903256443,False,183,27,1,11419
+GO:BP,GO:0051129,negative regulation of cellular component organization,0.4371092527051244,False,525,27,2,11419
+GO:BP,GO:0050769,positive regulation of neurogenesis,0.4372647787717812,False,184,27,1,11419
+GO:BP,GO:0042445,hormone metabolic process,0.4372647787717812,False,184,27,1,11419
+GO:BP,GO:0051606,detection of stimulus,0.4372647787717812,False,184,27,1,11419
+REAC,REAC:R-HSA-73857,RNA Polymerase II Transcription,0.4373037005839349,False,903,27,3,11419
+GO:BP,GO:0099537,trans-synaptic signaling,0.44097550644504296,False,530,27,2,11419
+GO:BP,GO:0030595,leukocyte chemotaxis,0.44183858932881614,False,187,27,1,11419
+GO:BP,GO:0032984,protein-containing complex disassembly,0.44183858932881614,False,187,27,1,11419
+GO:BP,GO:0045892,negative regulation of DNA-templated transcription,0.4425965254862054,False,903,27,3,11419
+GO:BP,GO:0045927,positive regulation of growth,0.4425965254862054,False,188,27,1,11419
+GO:BP,GO:0110053,regulation of actin filament organization,0.4425965254862054,False,188,27,1,11419
+GO:BP,GO:0022402,cell cycle process,0.4434646481348684,False,905,27,3,11419
+GO:BP,GO:0042742,defense response to bacterium,0.4437219796811558,False,189,27,1,11419
+GO:BP,GO:0002573,myeloid leukocyte differentiation,0.44466568239370685,False,190,27,1,11419
+GO:BP,GO:1902679,negative regulation of RNA biosynthetic process,0.44466568239370685,False,908,27,3,11419
+GO:BP,GO:0030855,epithelial cell differentiation,0.44466568239370685,False,537,27,2,11419
+REAC,REAC:R-HSA-5688426,Deubiquitination,0.44486666872080144,False,194,27,1,11419
+GO:BP,GO:1901136,carbohydrate derivative catabolic process,0.44557217978983066,False,191,27,1,11419
+GO:BP,GO:0002274,myeloid leukocyte activation,0.44557217978983066,False,191,27,1,11419
+GO:BP,GO:0006508,proteolysis,0.4456508139331011,False,539,27,2,11419
+GO:BP,GO:0002703,regulation of leukocyte mediated immunity,0.44667306138940777,False,192,27,1,11419
+GO:BP,GO:0032886,regulation of microtubule-based process,0.4470140425788758,False,193,27,1,11419
+GO:BP,GO:0071695,anatomical structure maturation,0.4470140425788758,False,193,27,1,11419
+GO:BP,GO:0016197,endosomal transport,0.4470140425788758,False,193,27,1,11419
+GO:BP,GO:0002685,regulation of leukocyte migration,0.4470140425788758,False,193,27,1,11419
+GO:BP,GO:0005996,monosaccharide metabolic process,0.4480984466997735,False,194,27,1,11419
+GO:BP,GO:0007160,cell-matrix adhesion,0.4480984466997735,False,194,27,1,11419
+GO:BP,GO:0071216,cellular response to biotic stimulus,0.449174980572718,False,195,27,1,11419
+GO:BP,GO:0043542,endothelial cell migration,0.449174980572718,False,195,27,1,11419
+GO:BP,GO:0090304,nucleic acid metabolic process,0.45014425176745915,False,3300,27,9,11419
+GO:BP,GO:0090092,regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,0.45386948635566127,False,198,27,1,11419
+GO:BP,GO:0099536,synaptic signaling,0.45575491633699744,False,553,27,2,11419
+GO:BP,GO:0090596,sensory organ morphogenesis,0.45671539648859266,False,200,27,1,11419
+GO:BP,GO:0007596,blood coagulation,0.4599181214234519,False,202,27,1,11419
+REAC,REAC:R-HSA-195258,RHO GTPase Effectors,0.46061139796319783,False,205,27,1,11419
+GO:BP,GO:0022414,reproductive process,0.464101761056899,False,942,27,3,11419
+GO:BP,GO:0050817,coagulation,0.464101761056899,False,205,27,1,11419
+GO:BP,GO:0007599,hemostasis,0.464101761056899,False,205,27,1,11419
+GO:BP,GO:0002221,pattern recognition receptor signaling pathway,0.46471150285187995,False,206,27,1,11419
+GO:BP,GO:0032386,regulation of intracellular transport,0.46471150285187995,False,206,27,1,11419
+GO:BP,GO:0045165,cell fate commitment,0.46471150285187995,False,206,27,1,11419
+GO:BP,GO:0016070,RNA metabolic process,0.4649295808736439,False,2935,27,8,11419
+GO:BP,GO:0043588,skin development,0.4649295808736439,False,207,27,1,11419
+GO:BP,GO:0051258,protein polymerization,0.4649295808736439,False,207,27,1,11419
+GO:BP,GO:0071560,cellular response to transforming growth factor beta stimulus,0.4649295808736439,False,207,27,1,11419
+GO:BP,GO:0000165,MAPK cascade,0.465909728387045,False,568,27,2,11419
+GO:BP,GO:0051962,positive regulation of nervous system development,0.465909728387045,False,208,27,1,11419
+GO:BP,GO:0007548,sex differentiation,0.4672674998023167,False,209,27,1,11419
+GO:BP,GO:0006629,lipid metabolic process,0.4685504103713917,False,953,27,3,11419
+GO:BP,GO:0050778,positive regulation of immune response,0.46871259841683066,False,572,27,2,11419
+GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,0.4688404109861332,False,2545,27,7,11419
+GO:BP,GO:0097435,supramolecular fiber organization,0.4688404109861332,False,573,27,2,11419
+GO:BP,GO:0001934,positive regulation of protein phosphorylation,0.4688404109861332,False,211,27,1,11419
+GO:BP,GO:0051254,positive regulation of RNA metabolic process,0.46942915610321523,False,1348,27,4,11419
+GO:BP,GO:0051336,regulation of hydrolase activity,0.46942915610321523,False,212,27,1,11419
+GO:BP,GO:0050790,regulation of catalytic activity,0.46942915610321523,False,575,27,2,11419
+GO:BP,GO:0071559,response to transforming growth factor beta,0.4703173563923657,False,213,27,1,11419
+GO:BP,GO:0050807,regulation of synapse organization,0.4703173563923657,False,213,27,1,11419
+GO:BP,GO:1903311,regulation of mRNA metabolic process,0.47163939517227627,False,214,27,1,11419
+GO:BP,GO:0051054,positive regulation of DNA metabolic process,0.47295531950237213,False,215,27,1,11419
+GO:BP,GO:0006401,RNA catabolic process,0.4738786289974423,False,216,27,1,11419
+GO:BP,GO:0050803,regulation of synapse structure or activity,0.4738786289974423,False,216,27,1,11419
+GO:BP,GO:0002758,innate immune response-activating signaling pathway,0.4764786312174542,False,218,27,1,11419
+GO:BP,GO:1901293,nucleoside phosphate biosynthetic process,0.4764786312174542,False,218,27,1,11419
+GO:BP,GO:0006355,regulation of DNA-templated transcription,0.47905457814346725,False,2170,27,6,11419
+GO:BP,GO:0009416,response to light stimulus,0.47905457814346725,False,220,27,1,11419
+GO:BP,GO:0051253,negative regulation of RNA metabolic process,0.4794759475867882,False,976,27,3,11419
+GO:BP,GO:2001141,regulation of RNA biosynthetic process,0.4825323109291088,False,2178,27,6,11419
+GO:BP,GO:0042113,B cell activation,0.48287380250784245,False,223,27,1,11419
+KEGG,KEGG:04010,MAPK signaling pathway,0.4849863664144574,False,254,27,1,11419
+REAC,REAC:R-HSA-73894,DNA Repair,0.48821292498874674,False,226,27,1,11419
+REAC,REAC:R-HSA-71387,Metabolism of carbohydrates and carbohydrate derivatives,0.48821292498874674,False,226,27,1,11419
+REAC,REAC:R-HSA-392499,Metabolism of proteins,0.48889343107505356,False,1398,27,4,11419
+REAC,REAC:R-HSA-71291,Metabolism of amino acids and derivatives,0.48889343107505356,False,232,27,1,11419
+REAC,REAC:R-HSA-597592,Post-translational protein modification,0.48889343107505356,False,1005,27,3,11419
+KEGG,KEGG:04519,Cadherin signaling,0.49093663521738046,False,264,27,1,11419
+GO:BP,GO:0009057,macromolecule catabolic process,0.491940526503381,False,994,27,3,11419
+GO:BP,GO:0048608,reproductive structure development,0.491940526503381,False,229,27,1,11419
+GO:BP,GO:0051128,regulation of cellular component organization,0.49201074655182714,False,1794,27,5,11419
+GO:BP,GO:0061458,reproductive system development,0.4943928061619243,False,231,27,1,11419
+GO:BP,GO:0043122,regulation of canonical NF-kappaB signal transduction,0.4968221254989781,False,233,27,1,11419
+GO:BP,GO:0042327,positive regulation of phosphorylation,0.4968221254989781,False,233,27,1,11419
+GO:BP,GO:0141188,nucleic acid catabolic process,0.49722689809721066,False,234,27,1,11419
+GO:BP,GO:0002449,lymphocyte mediated immunity,0.49722689809721066,False,234,27,1,11419
+GO:BP,GO:0048193,Golgi vesicle transport,0.49722689809721066,False,234,27,1,11419
+GO:BP,GO:0062197,cellular response to chemical stress,0.4980257018854542,False,235,27,1,11419
+GO:BP,GO:0002218,activation of innate immune response,0.4980257018854542,False,235,27,1,11419
+GO:BP,GO:0019216,regulation of lipid metabolic process,0.49921857103965434,False,236,27,1,11419
+GO:BP,GO:0051247,positive regulation of protein metabolic process,0.4995167094758547,False,616,27,2,11419
+GO:BP,GO:0022603,regulation of anatomical structure morphogenesis,0.501032842246303,False,618,27,2,11419
+GO:BP,GO:0007017,microtubule-based process,0.5013572399568084,False,619,27,2,11419
+GO:BP,GO:0006366,transcription by RNA polymerase II,0.5013572399568084,False,1819,27,5,11419
+GO:BP,GO:0030336,negative regulation of cell migration,0.5035313110671491,False,240,27,1,11419
+KEGG,KEGG:05165,Human papillomavirus infection,0.5041203952572526,False,280,27,1,11419
+GO:BP,GO:0048638,regulation of developmental growth,0.5054512440964373,False,242,27,1,11419
+GO:BP,GO:0006887,exocytosis,0.5054512440964373,False,242,27,1,11419
+GO:BP,GO:0045859,regulation of protein kinase activity,0.5054512440964373,False,242,27,1,11419
+REAC,REAC:R-HSA-74160,Gene expression (Transcription),0.5091256165321173,False,1038,27,3,11419
+GO:BP,GO:0007249,canonical NF-kappaB signal transduction,0.5097044070042077,False,245,27,1,11419
+KEGG,KEGG:05010,Alzheimer disease,0.5112690423788299,False,292,27,1,11419
+GO:BP,GO:0009056,catabolic process,0.5150411069454272,False,1847,27,5,11419
+GO:BP,GO:0002460,adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains,0.5150411069454272,False,249,27,1,11419
+GO:BP,GO:0032956,regulation of actin cytoskeleton organization,0.516158468683076,False,250,27,1,11419
+GO:BP,GO:2000146,negative regulation of cell motility,0.5168599719637883,False,251,27,1,11419
+GO:BP,GO:0045787,positive regulation of cell cycle,0.5168599719637883,False,251,27,1,11419
+GO:BP,GO:0048545,response to steroid hormone,0.5179661496053347,False,252,27,1,11419
+GO:BP,GO:0141091,transforming growth factor beta receptor superfamily signaling pathway,0.5186560677152776,False,253,27,1,11419
+GO:BP,GO:0033365,protein localization to organelle,0.5186560677152776,False,643,27,2,11419
+GO:BP,GO:0034654,nucleobase-containing compound biosynthetic process,0.5195580926523272,False,3095,27,8,11419
+GO:BP,GO:0006954,inflammatory response,0.5195580926523272,False,645,27,2,11419
+GO:BP,GO:0010038,response to metal ion,0.5200188617146663,False,255,27,1,11419
+GO:BP,GO:0008544,epidermis development,0.5200188617146663,False,255,27,1,11419
+GO:BP,GO:0070482,response to oxygen levels,0.5240794080040306,False,258,27,1,11419
+GO:BP,GO:0044282,small molecule catabolic process,0.5262125268457144,False,260,27,1,11419
+GO:BP,GO:0043549,regulation of kinase activity,0.5262125268457144,False,260,27,1,11419
+GO:BP,GO:0032496,response to lipopolysaccharide,0.5272714052654568,False,261,27,1,11419
+GO:BP,GO:0048872,homeostasis of number of cells,0.5274957934922796,False,262,27,1,11419
+GO:BP,GO:0007010,cytoskeleton organization,0.5274957934922796,False,1062,27,3,11419
+GO:BP,GO:0032535,regulation of cellular component size,0.5274957934922796,False,262,27,1,11419
+GO:BP,GO:0043066,negative regulation of apoptotic process,0.5337155282248692,False,665,27,2,11419
+GO:BP,GO:0007178,cell surface receptor protein serine/threonine kinase signaling pathway,0.5368198369591249,False,269,27,1,11419
+GO:BP,GO:0002237,response to molecule of bacterial origin,0.5421214177360638,False,273,27,1,11419
+GO:BP,GO:0016050,vesicle organization,0.5427544647726945,False,274,27,1,11419
+GO:BP,GO:0042981,regulation of apoptotic process,0.5427544647726945,False,1087,27,3,11419
+GO:BP,GO:0045087,innate immune response,0.5432774207169617,False,678,27,2,11419
+GO:BP,GO:0050767,regulation of neurogenesis,0.5460796629818623,False,277,27,1,11419
+GO:BP,GO:0010558,negative regulation of macromolecule biosynthetic process,0.5482107994556001,False,1511,27,4,11419
+GO:BP,GO:0000122,negative regulation of transcription by RNA polymerase II,0.5482107994556001,False,685,27,2,11419
+GO:BP,GO:0030900,forebrain development,0.5503891846511081,False,281,27,1,11419
+GO:BP,GO:0045089,positive regulation of innate immune response,0.5523020871503568,False,283,27,1,11419
+GO:BP,GO:0043069,negative regulation of programmed cell death,0.5523020871503568,False,691,27,2,11419
+GO:BP,GO:0031589,cell-substrate adhesion,0.5530990680427983,False,284,27,1,11419
+GO:BP,GO:0071345,cellular response to cytokine stimulus,0.5530990680427983,False,693,27,2,11419
+REAC,REAC:R-HSA-3700989,Transcriptional Regulation by TP53,0.5540000896762557,False,284,27,1,11419
+GO:BP,GO:0032970,regulation of actin filament-based process,0.5551361709130095,False,286,27,1,11419
+REAC,REAC:R-HSA-500792,GPCR ligand binding,0.5563307897137851,False,289,27,1,11419
+GO:BP,GO:0006979,response to oxidative stress,0.5587933706726351,False,289,27,1,11419
+GO:BP,GO:0043067,regulation of programmed cell death,0.5621936861607035,False,1122,27,3,11419
+GO:BP,GO:0065003,protein-containing complex assembly,0.5624509311940595,False,1123,27,3,11419
+GO:BP,GO:0051338,regulation of transferase activity,0.5651305589432047,False,295,27,1,11419
+GO:BP,GO:2001233,regulation of apoptotic signaling pathway,0.5651305589432047,False,295,27,1,11419
+KEGG,KEGG:05022,Pathways of neurodegeneration - multiple diseases,0.5657627479622871,False,347,27,1,11419
+GO:BP,GO:0051246,regulation of protein metabolic process,0.5677523849321489,False,1133,27,3,11419
+GO:BP,GO:0050776,regulation of immune response,0.5677523849321489,False,714,27,2,11419
+GO:BP,GO:0051656,establishment of organelle localization,0.5684717643977178,False,300,27,1,11419
+GO:BP,GO:0009890,negative regulation of biosynthetic process,0.5684717643977178,False,1557,27,4,11419
+GO:BP,GO:0051051,negative regulation of transport,0.5684717643977178,False,300,27,1,11419
+GO:BP,GO:0006468,protein phosphorylation,0.5684717643977178,False,716,27,2,11419
+GO:BP,GO:0050877,nervous system process,0.5684717643977178,False,717,27,2,11419
+GO:BP,GO:0032774,RNA biosynthetic process,0.5684717643977178,False,2817,27,7,11419
+GO:BP,GO:0009887,animal organ morphogenesis,0.5697728881234828,False,720,27,2,11419
+GO:BP,GO:0032102,negative regulation of response to external stimulus,0.5712936762318055,False,303,27,1,11419
+GO:BP,GO:0030163,protein catabolic process,0.5714203123073122,False,723,27,2,11419
+GO:BP,GO:0002833,positive regulation of response to biotic stimulus,0.5717151601596984,False,304,27,1,11419
+GO:BP,GO:0001558,regulation of cell growth,0.5725700720664333,False,305,27,1,11419
+GO:BP,GO:0043254,regulation of protein-containing complex assembly,0.5734206557962622,False,306,27,1,11419
+GO:BP,GO:0042391,regulation of membrane potential,0.5738285563586439,False,307,27,1,11419
+GO:BP,GO:0050878,regulation of body fluid levels,0.5738285563586439,False,307,27,1,11419
+GO:BP,GO:0031401,positive regulation of protein modification process,0.5755076210062675,False,309,27,1,11419
+GO:BP,GO:0009314,response to radiation,0.5755076210062675,False,309,27,1,11419
+GO:BP,GO:0002443,leukocyte mediated immunity,0.5801372864520875,False,313,27,1,11419
+GO:BP,GO:0044087,regulation of cellular component biogenesis,0.5815560689156487,False,740,27,2,11419
+GO:BP,GO:0007049,cell cycle,0.5834845932137053,False,1169,27,3,11419
+GO:BP,GO:0050900,leukocyte migration,0.5850690165196386,False,318,27,1,11419
+GO:BP,GO:0098771,inorganic ion homeostasis,0.5871041237078359,False,320,27,1,11419
+GO:BP,GO:0060537,muscle tissue development,0.592352306710364,False,325,27,1,11419
+GO:BP,GO:0007409,axonogenesis,0.592352306710364,False,325,27,1,11419
+GO:BP,GO:0007015,actin filament organization,0.5931216961708475,False,326,27,1,11419
+GO:BP,GO:0051960,regulation of nervous system development,0.5938870678292671,False,327,27,1,11419
+GO:BP,GO:0141187,nucleic acid biosynthetic process,0.5948382815097836,False,2893,27,7,11419
+GO:BP,GO:0034097,response to cytokine,0.5969017556493723,False,764,27,2,11419
+GO:BP,GO:0001503,ossification,0.5997516717892609,False,333,27,1,11419
+GO:BP,GO:0050804,modulation of chemical synaptic transmission,0.6028635606257311,False,336,27,1,11419
+GO:BP,GO:0099177,regulation of trans-synaptic signaling,0.6035906276580059,False,337,27,1,11419
+GO:BP,GO:1901652,response to peptide,0.6036374046737798,False,776,27,2,11419
+GO:BP,GO:0042592,homeostatic process,0.6036374046737798,False,1209,27,3,11419
+GO:BP,GO:0043410,positive regulation of MAPK cascade,0.6036374046737798,False,338,27,1,11419
+GO:BP,GO:0022411,cellular component disassembly,0.6041233537921485,False,339,27,1,11419
+GO:BP,GO:0065009,regulation of molecular function,0.6073938494300762,False,782,27,2,11419
+GO:BP,GO:0006091,generation of precursor metabolites and energy,0.6078723620142727,False,343,27,1,11419
+GO:BP,GO:0006325,chromatin organization,0.6087995732902256,False,785,27,2,11419
+GO:BP,GO:0045088,regulation of innate immune response,0.6138532482292336,False,349,27,1,11419
+GO:BP,GO:0007600,sensory perception,0.6156676193893178,False,351,27,1,11419
+REAC,REAC:R-HSA-9012999,RHO GTPase cycle,0.6163413121186162,False,340,27,1,11419
+GO:BP,GO:0016310,phosphorylation,0.6166050158429933,False,797,27,2,11419
+GO:BP,GO:0051052,regulation of DNA metabolic process,0.6203770961892567,False,356,27,1,11419
+GO:BP,GO:0001932,regulation of protein phosphorylation,0.6227920806223327,False,359,27,1,11419
+GO:BP,GO:0042060,wound healing,0.6227920806223327,False,359,27,1,11419
+REAC,REAC:R-HSA-168249,Innate Immune System,0.6233710305410965,False,794,27,2,11419
+GO:BP,GO:0120031,plasma membrane bounded cell projection assembly,0.6269046992257905,False,364,27,1,11419
+GO:BP,GO:0061564,axon development,0.6269046992257905,False,364,27,1,11419
+GO:BP,GO:0010608,post-transcriptional regulation of gene expression,0.6269046992257905,False,364,27,1,11419
+GO:BP,GO:0045893,positive regulation of DNA-templated transcription,0.6304554022959681,False,1264,27,3,11419
+GO:BP,GO:0055080,monoatomic cation homeostasis,0.6304554022959681,False,368,27,1,11419
+GO:BP,GO:1902680,positive regulation of RNA biosynthetic process,0.6311955335257816,False,1266,27,3,11419
+GO:BP,GO:0044089,positive regulation of cellular component biogenesis,0.6332195111294731,False,372,27,1,11419
+GO:BP,GO:0030031,cell projection assembly,0.6332195111294731,False,372,27,1,11419
+GO:BP,GO:1901137,carbohydrate derivative biosynthetic process,0.6338177953730494,False,373,27,1,11419
+GO:BP,GO:0008104,intracellular protein localization,0.635115154800039,False,1716,27,4,11419
+GO:BP,GO:0050801,monoatomic ion homeostasis,0.635115154800039,False,375,27,1,11419
+GO:BP,GO:0051241,negative regulation of multicellular organismal process,0.6391311113763093,False,837,27,2,11419
+GO:BP,GO:0006357,regulation of transcription by RNA polymerase II,0.6415097345410053,False,1730,27,4,11419
+GO:BP,GO:0031349,positive regulation of defense response,0.6419795510384819,False,383,27,1,11419
+GO:BP,GO:0034655,nucleobase-containing compound catabolic process,0.6425414932557717,False,384,27,1,11419
+GO:BP,GO:0002757,immune response-activating signaling pathway,0.6431001666957975,False,385,27,1,11419
+GO:BP,GO:0090066,regulation of anatomical structure size,0.6436555841131685,False,386,27,1,11419
+GO:BP,GO:0050808,synapse organization,0.6442077582128916,False,387,27,1,11419
+GO:BP,GO:0060627,regulation of vesicle-mediated transport,0.6442822669915297,False,388,27,1,11419
+GO:BP,GO:0010638,positive regulation of organelle organization,0.6442822669915297,False,388,27,1,11419
+GO:BP,GO:0009896,positive regulation of catabolic process,0.644827939953963,False,389,27,1,11419
+GO:BP,GO:0010605,negative regulation of macromolecule metabolic process,0.648073561900386,False,1751,27,4,11419
+REAC,REAC:R-HSA-6798695,Neutrophil degranulation,0.6513429680601952,False,380,27,1,11419
+GO:BP,GO:0002683,negative regulation of immune system process,0.6539291107261364,False,399,27,1,11419
+GO:BP,GO:0051604,protein maturation,0.6564155948065332,False,402,27,1,11419
+GO:BP,GO:0010256,endomembrane system organization,0.6569177192949962,False,403,27,1,11419
+GO:BP,GO:0003008,system process,0.6579128153591314,False,1328,27,3,11419
+GO:BP,GO:0042325,regulation of phosphorylation,0.6579128153591314,False,405,27,1,11419
+GO:BP,GO:0043065,positive regulation of apoptotic process,0.6584058108268642,False,406,27,1,11419
+GO:BP,GO:0010817,regulation of hormone levels,0.6598647609550068,False,408,27,1,11419
+GO:BP,GO:0002831,regulation of response to biotic stimulus,0.6637050846756056,False,413,27,1,11419
+GO:BP,GO:0048667,cell morphogenesis involved in neuron differentiation,0.6637050846756056,False,413,27,1,11419
+GO:BP,GO:0044057,regulation of system process,0.6641742148189218,False,414,27,1,11419
+GO:BP,GO:0002764,immune response-regulating signaling pathway,0.6655884531917212,False,416,27,1,11419
+GO:BP,GO:0043068,positive regulation of programmed cell death,0.6660487971917584,False,417,27,1,11419
+GO:BP,GO:1903530,regulation of secretion by cell,0.6665062392403127,False,418,27,1,11419
+GO:BP,GO:0008015,blood circulation,0.6678978539202701,False,420,27,1,11419
+REAC,REAC:R-HSA-422475,Axon guidance,0.6749084877347543,False,408,27,1,11419
+GO:BP,GO:0002253,activation of immune response,0.6784778298475056,False,432,27,1,11419
+GO:BP,GO:0051179,localization,0.6805073663151914,False,3589,27,8,11419
+GO:BP,GO:1901701,cellular response to oxygen-containing compound,0.6805073663151914,False,917,27,2,11419
+GO:BP,GO:0019221,cytokine-mediated signaling pathway,0.6832990976112274,False,439,27,1,11419
+GO:BP,GO:0045944,positive regulation of transcription by RNA polymerase II,0.6912081147704471,False,936,27,2,11419
+GO:BP,GO:0071495,cellular response to endogenous stimulus,0.6945281060372949,False,943,27,2,11419
+GO:BP,GO:0006511,ubiquitin-dependent protein catabolic process,0.6945281060372949,False,453,27,1,11419
+GO:BP,GO:0051301,cell division,0.6952895576235094,False,455,27,1,11419
+GO:BP,GO:0019941,modification-dependent protein catabolic process,0.696339293525789,False,458,27,1,11419
+GO:BP,GO:0051046,regulation of secretion,0.696339293525789,False,457,27,1,11419
+GO:BP,GO:0043632,modification-dependent macromolecule catabolic process,0.696339293525789,False,458,27,1,11419
+GO:BP,GO:0009611,response to wounding,0.7000517830492436,False,463,27,1,11419
+GO:BP,GO:0009892,negative regulation of metabolic process,0.7003810532636314,False,1887,27,4,11419
+GO:BP,GO:0016567,protein ubiquitination,0.7040283970690875,False,469,27,1,11419
+GO:BP,GO:0043408,regulation of MAPK cascade,0.7132732790931524,False,481,27,1,11419
+GO:BP,GO:0003013,circulatory system process,0.7175293360176389,False,487,27,1,11419
+GO:BP,GO:0046907,intracellular transport,0.7218667426325479,False,998,27,2,11419
+GO:BP,GO:0061061,muscle structure development,0.7242861314360874,False,497,27,1,11419
+REAC,REAC:R-HSA-372790,Signaling by GPCR,0.7280059732669385,False,472,27,1,11419
+GO:BP,GO:0006886,intracellular protein transport,0.7291042471203067,False,504,27,1,11419
+REAC,REAC:R-HSA-382551,Transport of small molecules,0.7293373838461814,False,508,27,1,11419
+REAC,REAC:R-HSA-199991,Membrane Trafficking,0.7293373838461814,False,482,27,1,11419
+REAC,REAC:R-HSA-9716542,"Signaling by Rho GTPases, Miro GTPases and RHOBTB3",0.7293373838461814,False,511,27,1,11419
+REAC,REAC:R-HSA-5653656,Vesicle-mediated transport,0.7293373838461814,False,516,27,1,11419
+REAC,REAC:R-HSA-109582,Hemostasis,0.7293373838461814,False,501,27,1,11419
+REAC,REAC:R-HSA-194315,Signaling by Rho GTPases,0.7293373838461814,False,497,27,1,11419
+GO:BP,GO:0030036,actin cytoskeleton organization,0.7382541253836981,False,517,27,1,11419
+REAC,REAC:R-HSA-556833,Metabolism of lipids,0.7401062224606536,False,539,27,1,11419
+GO:BP,GO:0006897,endocytosis,0.7481449598256059,False,533,27,1,11419
+GO:BP,GO:0032870,cellular response to hormone stimulus,0.7481449598256059,False,533,27,1,11419
+GO:BP,GO:0032446,protein modification by small protein conjugation,0.7481449598256059,False,533,27,1,11419
+GO:BP,GO:0031399,regulation of protein modification process,0.7484779486978653,False,535,27,1,11419
+GO:BP,GO:0015031,protein transport,0.7484779486978653,False,1054,27,2,11419
+GO:BP,GO:0080134,regulation of response to stress,0.7495604435237936,False,1058,27,2,11419
+GO:BP,GO:0016071,mRNA metabolic process,0.7496550430196355,False,539,27,1,11419
+GO:BP,GO:0071363,cellular response to growth factor stimulus,0.7496550430196355,False,539,27,1,11419
+GO:BP,GO:0008285,negative regulation of cell population proliferation,0.7511854144837686,False,542,27,1,11419
+GO:BP,GO:0070848,response to growth factor,0.7640307872501192,False,562,27,1,11419
+GO:BP,GO:0071705,nitrogen compound transport,0.7743589797067463,False,579,27,1,11419
+GO:BP,GO:0036211,protein modification process,0.7744331003600862,False,1613,27,3,11419
+GO:BP,GO:0070647,protein modification by small protein conjugation or removal,0.7794410691175193,False,589,27,1,11419
+GO:BP,GO:0009719,response to endogenous stimulus,0.7802174884192139,False,1131,27,2,11419
+GO:BP,GO:0016192,vesicle-mediated transport,0.7802174884192139,False,1131,27,2,11419
+GO:BP,GO:0030029,actin filament-based process,0.7820147067776652,False,596,27,1,11419
+GO:BP,GO:0034330,cell junction organization,0.7820590620435619,False,597,27,1,11419
+GO:BP,GO:0031347,regulation of defense response,0.7885889707972575,False,610,27,1,11419
+GO:BP,GO:0032940,secretion by cell,0.7885889707972575,False,610,27,1,11419
+GO:BP,GO:0043687,post-translational protein modification,0.7971011320579637,False,626,27,1,11419
+GO:BP,GO:0019752,carboxylic acid metabolic process,0.7998477244386394,False,632,27,1,11419
+GO:BP,GO:0051641,cellular localization,0.8033439896356858,False,1703,27,3,11419
+GO:BP,GO:0043436,oxoacid metabolic process,0.8062472881997705,False,646,27,1,11419
+GO:BP,GO:0006082,organic acid metabolic process,0.8093459667197546,False,653,27,1,11419
+GO:BP,GO:0045184,establishment of protein localization,0.8093835714313594,False,1212,27,2,11419
+GO:BP,GO:0032880,regulation of protein localization,0.8102144877846811,False,658,27,1,11419
+GO:BP,GO:0043412,macromolecule modification,0.8102144877846811,False,1730,27,3,11419
+GO:BP,GO:0140352,export from cell,0.8111747541007568,False,661,27,1,11419
+GO:BP,GO:0048878,chemical homeostasis,0.8131281828216733,False,666,27,1,11419
+GO:BP,GO:0048585,negative regulation of response to stimulus,0.8132393342468558,False,1229,27,2,11419
+GO:BP,GO:0006338,chromatin remodeling,0.8193658757526167,False,681,27,1,11419
+GO:BP,GO:0046903,secretion,0.8309530244493758,False,707,27,1,11419
+GO:BP,GO:0098657,import into cell,0.8368910246396593,False,723,27,1,11419
+GO:BP,GO:0009725,response to hormone,0.8368910246396593,False,722,27,1,11419
+REAC,REAC:R-HSA-5663205,Infectious disease,0.8371292483083644,False,727,27,1,11419
+GO:BP,GO:0009894,regulation of catabolic process,0.8427119824702818,False,738,27,1,11419
+GO:BP,GO:0007167,enzyme-linked receptor protein signaling pathway,0.8499030497005619,False,757,27,1,11419
+GO:BP,GO:0010629,negative regulation of gene expression,0.8590047527287724,False,782,27,1,11419
+GO:BP,GO:0051726,regulation of cell cycle,0.8624840802996565,False,793,27,1,11419
+GO:BP,GO:0051649,establishment of localization in cell,0.8628419883584746,False,1391,27,2,11419
+GO:BP,GO:0032879,regulation of localization,0.8696671157212569,False,1417,27,2,11419
+GO:BP,GO:0006810,transport,0.8746842943421097,False,2982,27,5,11419
+REAC,REAC:R-HSA-168256,Immune System,0.895370240423332,False,1537,27,2,11419
+GO:BP,GO:0051234,establishment of localization,0.9027228739015195,False,3131,27,5,11419
+GO:BP,GO:0055085,transmembrane transport,0.9123205031954764,False,973,27,1,11419
+GO:BP,GO:0009968,negative regulation of signal transduction,0.9123205031954764,False,975,27,1,11419
+GO:BP,GO:0010648,negative regulation of cell communication,0.9263439106088176,False,1047,27,1,11419
+GO:BP,GO:0023057,negative regulation of signaling,0.9263439106088176,False,1047,27,1,11419
+GO:BP,GO:0051049,regulation of transport,0.9432710473567008,False,1150,27,1,11419

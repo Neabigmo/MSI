@@ -1,0 +1,49 @@
+# Interpreter/build outputs
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
+*.log
+*.tmp
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# Protected or large input matrices: always download from the original source
+/data/raw/
+/data/processed/
+/data/interim/
+*.CEL
+*.CEL.gz
+*.fastq
+*.bam
+*.cram
+*.h5ad
+*.npy
+*.npz
+*.pkl
+*.joblib
+*.parquet
+*.rds
+*.RData
+*.zip
+*.7z
+
+# Workstation paths, credentials, and local configuration
+.local/
+.local*
+local_settings.*
+proxy_settings.*
+credentials*
+secrets*
+*.key
+*.pem
+*.env
+
+# Recomputed plots may be regenerated locally; the final publication figures
+# shipped in this repository are intentionally tracked.

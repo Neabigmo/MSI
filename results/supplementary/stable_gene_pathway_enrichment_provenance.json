@@ -1,0 +1,233 @@
+{
+  "service": "g:Profiler",
+  "endpoint": "https://biit.cs.ut.ee/gprofiler/api/gost/profile/",
+  "metadata": {
+    "query_metadata": {
+      "queries": {
+        "query_1": [
+          "MLH1",
+          "TGFBR2",
+          "MBP",
+          "QPRT",
+          "FECH",
+          "GLYR1",
+          "TCF7",
+          "TPO",
+          "GFI1",
+          "RAB32",
+          "KDSR",
+          "MSH4",
+          "HPSE",
+          "ZMYND8",
+          "MAPRE3",
+          "ZCCHC2",
+          "CXCL14",
+          "ATP9A",
+          "NUBPL",
+          "IHH",
+          "POFUT1",
+          "TTC37",
+          "GNLY",
+          "RNF43",
+          "APOL3",
+          "SEMA5A",
+          "CD244",
+          "NOX1"
+        ]
+      },
+      "organism": "hsapiens",
+      "all_results": false,
+      "ordered": false,
+      "no_iea": false,
+      "sources": [
+        "GO:BP",
+        "KEGG",
+        "REAC"
+      ],
+      "combined": false,
+      "aresolve": {},
+      "numeric_ns": "ENTREZGENE_ACC",
+      "domain_scope": "custom",
+      "measure_underrepresentation": false,
+      "significance_threshold_method": "fdr",
+      "user_threshold": 1.0,
+      "no_evidences": true,
+      "highlight": null
+    },
+    "result_metadata": {
+      "GO:BP": {
+        "domain_size": 20972,
+        "number_of_terms": 24546,
+        "threshold": null
+      },
+      "KEGG": {
+        "domain_size": 8716,
+        "number_of_terms": 586,
+        "threshold": null
+      },
+      "REAC": {
+        "domain_size": 11056,
+        "number_of_terms": 2849,
+        "threshold": null
+      }
+    },
+    "genes_metadata": {
+      "failed": [
+        "TTC37"
+      ],
+      "ambiguous": {},
+      "duplicates": [],
+      "query": {
+        "query_1": {
+          "mapping": {
+            "MLH1": [
+              "ENSG00000076242"
+            ],
+            "TGFBR2": [
+              "ENSG00000163513"
+            ],
+            "MBP": [
+              "ENSG00000197971"
+            ],
+            "QPRT": [
+              "ENSG00000103485"
+            ],
+            "FECH": [
+              "ENSG00000066926"
+            ],
+            "GLYR1": [
+              "ENSG00000140632"
+            ],
+            "TCF7": [
+              "ENSG00000081059"
+            ],
+            "TPO": [
+              "ENSG00000115705"
+            ],
+            "GFI1": [
+              "ENSG00000162676"
+            ],
+            "RAB32": [
+              "ENSG00000118508"
+            ],
+            "KDSR": [
+              "ENSG00000119537"
+            ],
+            "MSH4": [
+              "ENSG00000057468"
+            ],
+            "HPSE": [
+              "ENSG00000173083"
+            ],
+            "ZMYND8": [
+              "ENSG00000101040"
+            ],
+            "MAPRE3": [
+              "ENSG00000084764"
+            ],
+            "ZCCHC2": [
+              "ENSG00000141664"
+            ],
+            "CXCL14": [
+              "ENSG00000145824"
+            ],
+            "ATP9A": [
+              "ENSG00000054793"
+            ],
+            "NUBPL": [
+              "ENSG00000151413"
+            ],
+            "IHH": [
+              "ENSG00000163501"
+            ],
+            "POFUT1": [
+              "ENSG00000101346"
+            ],
+            "GNLY": [
+              "ENSG00000115523"
+            ],
+            "RNF43": [
+              "ENSG00000108375"
+            ],
+            "APOL3": [
+              "ENSG00000128284"
+            ],
+            "SEMA5A": [
+              "ENSG00000112902"
+            ],
+            "CD244": [
+              "ENSG00000122223"
+            ],
+            "NOX1": [
+              "ENSG00000007952"
+            ]
+          },
+          "ensgs": [
+            "ENSG00000076242",
+            "ENSG00000163513",
+            "ENSG00000197971",
+            "ENSG00000103485",
+            "ENSG00000066926",
+            "ENSG00000140632",
+            "ENSG00000081059",
+            "ENSG00000115705",
+            "ENSG00000162676",
+            "ENSG00000118508",
+            "ENSG00000119537",
+            "ENSG00000057468",
+            "ENSG00000173083",
+            "ENSG00000101040",
+            "ENSG00000084764",
+            "ENSG00000141664",
+            "ENSG00000145824",
+            "ENSG00000054793",
+            "ENSG00000151413",
+            "ENSG00000163501",
+            "ENSG00000101346",
+            "ENSG00000115523",
+            "ENSG00000108375",
+            "ENSG00000128284",
+            "ENSG00000112902",
+            "ENSG00000122223",
+            "ENSG00000007952"
+          ]
+        }
+      }
+    },
+    "timestamp": "2026-10-08T09:01:32.341842+00:00",
+    "version": "e114_eg62_p19_27110d83"
+  },
+  "query_rule": "selection_frequency >= 0.20",
+  "query_genes": [
+    "MLH1",
+    "TGFBR2",
+    "MBP",
+    "QPRT",
+    "FECH",
+    "GLYR1",
+    "TCF7",
+    "TPO",
+    "GFI1",
+    "RAB32",
+    "KDSR",
+    "MSH4",
+    "HPSE",
+    "ZMYND8",
+    "MAPRE3",
+    "ZCCHC2",
+    "CXCL14",
+    "ATP9A",
+    "NUBPL",
+    "IHH",
+    "POFUT1",
+    "TTC37",
+    "GNLY",
+    "RNF43",
+    "APOL3",
+    "SEMA5A",
+    "CD244",
+    "NOX1"
+  ],
+  "background_size": 11316,
+  "multiple_testing": "FDR 0.05"
+}

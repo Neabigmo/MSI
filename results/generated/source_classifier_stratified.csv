@@ -1,0 +1,5 @@
+label_stratum,representation,n,source_balanced_accuracy,chance_balanced_accuracy
+MSS,fixed_log_expression,467,1.0,0.16666666666666666
+MSS,single_sample_rank,467,1.0,0.16666666666666666
+MSI,fixed_log_expression,179,0.9957264957264957,0.16666666666666666
+MSI,single_sample_rank,179,0.9957264957264957,0.16666666666666666

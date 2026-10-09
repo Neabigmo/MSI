@@ -1,0 +1,19 @@
+{
+  "panel_size": 200,
+  "outer_cv": 3,
+  "panel_selection": "SelectKBest ANOVA on each outer training fold",
+  "external_panel": "SelectKBest ANOVA on all discovery samples after nested OOF evaluation",
+  "threshold_selection": "locked from nested outer-fold OOF predictions",
+  "seed": 20261008,
+  "candidate_grid": "expanded nine-candidate grid",
+  "representations": [
+    "fixed_log_expression",
+    "target_cohort_adaptive_zscore",
+    "single_sample_rank"
+  ],
+  "models": [
+    "elastic_net",
+    "svm_rbf",
+    "xgboost"
+  ]
+}

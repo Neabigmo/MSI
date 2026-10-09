@@ -1,0 +1,7 @@
+cohort,role,platform,n,msi,mss,prevalence,label_source,expression_input
+TCGA_COAD,discovery,RNA-seq,160,37,123,0.23125,GDC roster joined to cBioPortal MSI_STATUS,GDC STAR-count TPM; log2(TPM+1)
+GSE13294,external,Affymetrix GPL570-family microarray,155,78,77,0.5032258064516129,Direct MSI/MSS labels in GEO and published cohort annotations,GEO series matrix; fixed GPL570 mapping; sample-wise probe aggregation
+GSE13067,external,Affymetrix GPL570-family microarray,74,11,63,0.14864864864864866,Direct MSI/MSS labels in GEO and published cohort annotations,GEO series matrix; fixed GPL570 mapping; sample-wise probe aggregation
+GSE18088,external,Affymetrix HG-U133 Plus 2.0 family,53,19,34,0.3584905660377358,Direct MSI/MSS labels in published CRC cohort annotations,GEO series matrix; fixed array annotation; sample-wise probe aggregation
+GSE26682,external,Affymetrix GPL570-family microarray,137,18,119,0.13138686131386862,Direct MSI/MSS labels in published CRC cohort compendium annotations,GEO series matrix; fixed GPL570 mapping; sample-wise probe aggregation
+GSE39084,external,Affymetrix GPL570-family microarray,67,16,51,0.23880597014925373,Direct MSI/MSS labels in published CRC cohort annotations,GEO series matrix; fixed GPL570 mapping; sample-wise probe aggregation

@@ -1,0 +1,28 @@
+{
+  "intercept_rank": 18.012057739003925,
+  "threshold": 0.49341557382438045,
+  "genes": [
+    "MLH1",
+    "TGFBR2",
+    "MBP",
+    "QPRT",
+    "FECH",
+    "GLYR1",
+    "TCF7",
+    "TPO",
+    "GFI1",
+    "RAB32",
+    "KDSR",
+    "MSH4",
+    "HPSE",
+    "ZMYND8",
+    "MAPRE3",
+    "ZCCHC2",
+    "CXCL14",
+    "ATP9A",
+    "NUBPL",
+    "IHH"
+  ],
+  "stability_scope": "all genes -> 200-feature screen -> scaling -> L1 fit",
+  "nested_oof_scope": "each outer fold repeated the complete 500-bootstrap stability procedure"
+}

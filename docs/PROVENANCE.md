@@ -1,0 +1,9 @@
+# Provenance
+
+The formal run used Python 3.12.12 in the local `pytorch-clean` environment with the versions pinned in `environment.yml`. Random seed: 20261008. XGBoost used two CPU threads, histogram trees, an internal stratified 15% validation split, and 20-round early stopping. Compact feature stability used 500 stratified bootstrap fits. Cohort-level paired intervals used 2,000 resamples.
+
+ICI follows Austin and Steyerberg (2019): LOWESS-smoothed observed risk is evaluated at each predicted probability and the mean absolute deviation is reported. Ten-bin ECE is retained under its own name. Functional annotation used the g:Profiler API with GO:BP, Reactome, and KEGG, a custom 11,316-gene background, and FDR correction; service metadata are stored beside the enrichment table.
+
+The principal GEO matrices use fixed GPL570 annotation and within-sample mean aggregation of probes. `probe_mapping_sensitivity.csv` records the difference from the superseded cohort-highest-mean implementation. `rank_svm_diagnostic.csv` records the external RBF-kernel collapse underlying nearly constant rank-SVM predictions.
+
+The derived publication results were generated on 2026-10-08. The fixed-200-gene control uses three-fold outer nested panel selection and locks its threshold from pooled outer-fold predictions. Threshold stability uses 500 class-stratified draws of original discovery identifiers, deduplicates in-bag IDs, and locks each threshold from out-of-bag predictions with zero fit/OOB identifier overlap. The Figure 4 kernel panels use direct log-kernel values from the TCGA-to-GEO and GEO-LOCO diagnostic tables; exponentiation is retained only as a compatibility field and underflow is not treated as a biological zero. Figure 4B is retained in the selected display version, including its deterministic display jitter; exact probability summaries remain in the derived tables. Older exploratory and reviewer-workflow artifacts are not part of this release.

@@ -1,0 +1,10 @@
+{
+  "bootstrap_count": 500,
+  "resampling": "class-stratified bootstrap of original IDs; duplicate in-bag draws deduplicated",
+  "threshold_predictions": "out-of-bag predictions only; each OOB ID absent from its fitted model",
+  "fit_oob_overlap": 0,
+  "threshold_rule": "balanced accuracy, F1, then proximity to 0.5",
+  "model": "single_sample_rank / elastic_net",
+  "setting": "C=0.5,l1=0.8",
+  "external_probabilities": "formal full-discovery fit; external labels used only for descriptive evaluation"
+}

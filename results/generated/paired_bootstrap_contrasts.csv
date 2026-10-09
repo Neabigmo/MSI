@@ -1,0 +1,10 @@
+contrast,metric,model_a,model_b,mean_difference,ci_low,ci_high,wins,ties,losses
+adaptive_vs_fixed,auroc,svm_rbf,elastic_net,0.0033577662447631827,-0.002188905865376478,0.011345311035713568,3,0,2
+adaptive_vs_fixed,balanced_accuracy,svm_rbf,elastic_net,0.2287783381049635,0.01831910779279202,0.3845156563422817,4,0,1
+adaptive_vs_fixed,brier_skill,svm_rbf,elastic_net,3.0761771937783875,0.9971483883988304,5.44177409128626,4,0,1
+rank_vs_fixed,auroc,elastic_net,elastic_net,0.014537419065282853,0.005975964180298487,0.02307054400707651,5,0,0
+rank_vs_fixed,balanced_accuracy,elastic_net,elastic_net,0.2623112654459404,0.1313026842438607,0.36194530443756456,5,0,0
+rank_vs_fixed,brier_skill,elastic_net,elastic_net,2.984520502264831,1.2685900475911172,4.953039150050936,5,0,0
+compact_rank_vs_complex_fixed,auroc,compact_rank_20,elastic_net,0.014337292394567958,0.005252672164436878,0.02342191262469904,5,0,0
+compact_rank_vs_complex_fixed,balanced_accuracy,compact_rank_20,elastic_net,0.2630635360511522,0.12913606001841305,0.3685979655019903,5,0,0
+compact_rank_vs_complex_fixed,brier_skill,compact_rank_20,elastic_net,2.7296189662470693,1.246525906359895,4.15280461579101,5,0,0

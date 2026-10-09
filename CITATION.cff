@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility code, please cite the accompanying manuscript."
+authors:
+  - family-names: Yang
+    given-names: Yiheng
+title: "Representation and Feature Selection Shape Cross-Cohort Transcriptomic Prediction of Microsatellite Instability"
+type: software
+repository-code: "https://github.com/Neabigmo/MSI"
+url: "https://github.com/Neabigmo/MSI"
