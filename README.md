@@ -30,5 +30,3 @@ For this retrospective benchmark, the 11,316-gene reference space was defined on
 
 The rank workflow is sample-wise only from the published series-matrix input onward. Public series matrices may already incorporate cohort-level preprocessing, so this repository does not claim a complete raw-CEL-to-prediction single-sample workflow. The TCGA expression reconstruction and the clinical-label join require source-specific verification against the released manifest; see `DATA_SOURCES.md` and `REPRODUCE.md`.
 
-This repository contains one current public release state. Older internal versions, reviewer files, local paths, caches, and raw data are not included.
-
